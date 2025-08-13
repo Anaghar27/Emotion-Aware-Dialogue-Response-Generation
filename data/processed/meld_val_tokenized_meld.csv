@@ -1,0 +1,1109 @@
+,Utterance,Emotion,tokens,token_len
+0,"Oh my God, he’s lost it. He’s totally lost it.",sadness,"['oh', 'god', 'he', 'lost', 'he', 'totally', 'lost']",7
+1,What?,surprise,[],0
+2,"Or! Or, we could go to the bank, close our accounts and cut them off at the source.",neutral,"['could', 'go', 'bank', 'close', 'account', 'cut', 'source']",7
+3,You’re a genius!,joy,"['youre', 'genius']",2
+4,"Aww, man, now we won’t be bank buddies!",sadness,"['aww', 'man', 'wont', 'bank', 'buddy']",5
+5,"Now, there’s two reasons.",neutral,"['there', 'two', 'reason']",3
+6,Hey.,neutral,['hey'],1
+7,Hey!,joy,['hey'],1
+8,"Ohh, you guys, remember that cute client I told you about? I bit him.",neutral,"['ohh', 'guy', 'remember', 'cute', 'client', 'told', 'bit']",7
+9,Where?!,surprise,[],0
+10,On the touchy.,neutral,['touchy'],1
+11,And,neutral,[],0
+12,"No, I know!",surprise,['know'],1
+13,"I-I’m sorry, but the moment I touch him, I just wanna throw out my old oath and take a new, dirty one.",anger,"['iim', 'sorry', 'moment', 'touch', 'wan', 'na', 'throw', 'old', 'oath', 'take', 'new', 'dirty', 'one']",13
+14,"Well, next time your massaging him, you should try and distract yourself.",neutral,"['well', 'next', 'time', 'massaging', 'try', 'distract']",6
+15,Yeah! Yeah! Yeah! Like-like when I’m doing something exciting and I don’t wanna get,joy,"['yeah', 'yeah', 'yeah', 'likelike', 'im', 'something', 'exciting', 'dont', 'wan', 'na', 'get']",11
+16,"Thank you, Joey.",neutral,"['thank', 'joey']",2
+17,"No-no, thank you.",neutral,"['nono', 'thank']",2
+18,"Hey Estelle, listen",neutral,"['hey', 'estelle', 'listen']",3
+19,Well! Well! Well! Joey Tribbiani! So you came back huh? They,surprise,"['well', 'well', 'well', 'joey', 'tribbiani', 'came', 'back', 'huh']",8
+20,What are you talkin’ about? I never left you! You’ve always been my agent!,surprise,"['talkin', 'never', 'left', 'youve', 'always', 'agent']",6
+21,Really?!,surprise,['really'],1
+22,Yeah!,joy,['yeah'],1
+23,"Oh well, no harm, no foul.",neutral,"['oh', 'well', 'harm', 'foul']",4
+24,"Okay, you guys free tonight?",neutral,"['okay', 'guy', 'free', 'tonight']",4
+25,Yeah!!,joy,['yeah'],1
+26,Tonight? You-you didn't say it was going to be at nighttime.,surprise,"['tonight', 'youyou', 'didnt', 'say', 'going', 'nighttime']",6
+27,Yes? Yes?! How can I help you?,neutral,"['yes', 'yes', 'help']",3
+28,"Yeah, we were…we were just looking around.",neutral,"['yeah', 'werewe', 'looking', 'around']",4
+29,"Oh-oh, you’re-you’re fellow scholars.",surprise,"['ohoh', 'youreyoure', 'fellow', 'scholar']",4
+30,"What exactly were you looking for, hmm?",neutral,"['exactly', 'looking', 'hmm']",3
+31,"Perhaps,  perhaps Dr. Chester Stock’s musings on the Smiledon Californicus?",neutral,"['perhaps', 'perhaps', 'dr', 'chester', 'stock', 'musing', 'smiledon', 'californicus']",8
+32,Uhh….,neutral,['uhh'],1
+33,"Ah… Ah…Get out of here!  Uh, meeting someone? Or-or are you just here to brush up on Marion’s views on evolution?",anger,"['ah', 'ahget', 'uh', 'meeting', 'someone', 'oror', 'brush', 'marions', 'view', 'evolution']",10
+34,"Uh, actually I find Marion’s views far too progressionist.",neutral,"['uh', 'actually', 'find', 'marions', 'view', 'far', 'progressionist']",7
+35,I find Marion’s views far too progressionist.,neutral,"['find', 'marions', 'view', 'far', 'progressionist']",5
+36,"I’m sorry, who are you?",surprise,"['im', 'sorry']",2
+37,"I’m a professor here uh, Ross…Geller.",neutral,"['im', 'professor', 'uh', 'rossgeller']",4
+38,"Ross Geller, why do I know that name? It’s uh—Wait!  Did you write this?",surprise,"['ross', 'geller', 'know', 'name', 'uhwait', 'write']",6
+39,Yes! You’re the person who checked out my book?!,surprise,"['yes', 'youre', 'person', 'checked', 'book']",5
+40,"Y’know, you look nothing like I would’ve thought. You’re…you’re so young.",surprise,"['yknow', 'look', 'nothing', 'like', 'wouldve', 'thought', 'youreyoure', 'young']",8
+41,"Well I uh, I skipped forth grade.",neutral,"['well', 'uh', 'skipped', 'forth', 'grade']",5
+42,You had no right to tell me you ever had feelings for me.,anger,"['right', 'tell', 'ever', 'feeling']",4
+43,What?,surprise,[],0
+44,I was doing great with Julie before I found out about you.,anger,"['great', 'julie', 'found']",3
+45,"Hey, I was doin' great before I found out about you. You think it's easy for me to see you with Julie?",anger,"['hey', 'doin', 'great', 'found', 'think', 'easy', 'see', 'julie']",8
+46,The point is I...,anger,['point'],1
+47,"I don't need this right now, OK.",anger,"['dont', 'need', 'right', 'ok']",4
+48,"It, it's too late, I'm with somebody else, I'm happy.",anger,"['late', 'im', 'somebody', 'else', 'im', 'happy']",6
+49,This ship has sailed.,anger,"['ship', 'sailed']",2
+50,"Alright, fine, you go ahead and you do that, alright Ross.",anger,"['alright', 'fine', 'go', 'ahead', 'alright', 'ross']",6
+51,Fine.,anger,['fine'],1
+52,Cause I don't need your stupid ship.,anger,"['cause', 'dont', 'need', 'stupid', 'ship']",5
+53,Good.,anger,['good'],1
+54,Good.,anger,['good'],1
+55,"Oh, it's so romantic to send people off on their honeymoon.",joy,"['oh', 'romantic', 'send', 'people', 'honeymoon']",5
+56,"Y’know, Monica and Chandler are married. Ross and Rachel are having a baby. Maybe you and I should do something.",neutral,"['yknow', 'monica', 'chandler', 'married', 'ross', 'rachel', 'baby', 'maybe', 'something']",9
+57,All in good time my love.,neutral,"['good', 'time', 'love']",3
+58,All in good time.,neutral,"['good', 'time']",2
+59,Oh shoot!,surprise,"['oh', 'shoot']",2
+60,I left my guitar in their apartment.,sadness,"['left', 'guitar', 'apartment']",3
+61,Well you can let me in later.,neutral,"['well', 'let', 'later']",3
+62,"I don’t have a key, they took mine to give to you.",neutral,"['dont', 'key', 'took', 'mine', 'give']",5
+63,What?! They took mine to give to you!,surprise,"['took', 'mine', 'give']",3
+64,Why would they take away our keys?,surprise,"['would', 'take', 'away', 'key']",4
+65,Wow! It looks like we got a lot of good stuff.,joy,"['wow', 'look', 'like', 'got', 'lot', 'good', 'stuff']",7
+66,"Oh we did, but my mom got us the greatest gift of all.",joy,"['oh', 'mom', 'got', 'u', 'greatest', 'gift']",6
+67,A,neutral,[],0
+68,No. She’s going to live with us for eight weeks.,neutral,"['shes', 'going', 'live', 'u', 'eight', 'week']",6
+69,"Uh, what?",surprise,['uh'],1
+70,Yes! She’s gonna help us take care of the baby! Woo-hoo.,joy,"['yes', 'shes', 'gon', 'na', 'help', 'u', 'take', 'care', 'baby', 'woohoo']",10
+71,What—You’re not serious.,surprise,"['whatyoure', 'serious']",2
+72,"I mean she’s a very nice woman, but there is no way we can take eight weeks of her.",anger,"['mean', 'shes', 'nice', 'woman', 'way', 'take', 'eight', 'week']",8
+73,She’ll drive us totally crazy.,disgust,"['shell', 'drive', 'u', 'totally', 'crazy']",5
+74,Hi Ross!,joy,"['hi', 'ross']",2
+75,Hi roomie!,joy,"['hi', 'roomie']",2
+76,Hey! What did you decide to do about the movie?,neutral,"['hey', 'decide', 'movie']",3
+77,I don’t know!,neutral,"['dont', 'know']",2
+78,It’s not like it’s porn!,neutral,"['like', 'porn']",2
+79,"This is a serious, legitimate movie.",neutral,"['serious', 'legitimate', 'movie']",3
+80,And the nudity is really important to the story.,neutral,"['nudity', 'really', 'important', 'story']",4
+81,That’s what you say about porn.,neutral,"['thats', 'say', 'porn']",3
+82,You’re right. Maybe I shouldn’t even go on the call back.,neutral,"['youre', 'right', 'maybe', 'shouldnt', 'even', 'go', 'call', 'back']",8
+83,"No! No you should! A lot of major actors do nude scenes! I mean, the chance to star in a movie? Come on!",joy,"['lot', 'major', 'actor', 'nude', 'scene', 'mean', 'chance', 'star', 'movie', 'come']",10
+84,Well that’s true.,neutral,"['well', 'thats', 'true']",3
+85,And I am only naked in one scene.,neutral,"['naked', 'one', 'scene']",3
+86,Plus it sounds really great.,neutral,"['plus', 'sound', 'really', 'great']",4
+87,My character’s catholic and he falls in love with this Jewish girl.,neutral,"['character', 'catholic', 'fall', 'love', 'jewish', 'girl']",6
+88,Who run away together and they get caught in this big rainstorm.,neutral,"['run', 'away', 'together', 'get', 'caught', 'big', 'rainstorm']",7
+89,So we go into this barn and undress each other and hold each other.,neutral,"['go', 'barn', 'undress', 'hold']",4
+90,It’s really sweet and-and tender.,joy,"['really', 'sweet', 'andand', 'tender']",4
+91,"Hey, what’s up?",neutral,"['hey', 'whats']",2
+92,"Nothing, Monica and I had a stupid fight.",sadness,"['nothing', 'monica', 'stupid', 'fight']",4
+93,"But you’re still moving in together, right? Because my ad came out today.",neutral,"['youre', 'still', 'moving', 'together', 'right', 'ad', 'came', 'today']",8
+94,"""Wanted. Female roommate, non-smoker, non-ugly."" Nice!",joy,"['wanted', 'female', 'roommate', 'nonsmoker', 'nonugly', 'nice']",6
+95,Yeah?,neutral,['yeah'],1
+96,"I just figured y’know, after living with you it’d be an interesting change of pace to have a female roommate, y’know?",neutral,"['figured', 'yknow', 'living', 'itd', 'interesting', 'change', 'pace', 'female', 'roommate', 'yknow']",10
+97,"Someone I can learn from, someone-someone who’s different than me.",neutral,"['someone', 'learn', 'someonesomeone', 'who', 'different']",5
+98,And what’s more different than me. A guy who’s,neutral,"['whats', 'different', 'guy', 'who']",4
+99,So where are we going next?,neutral,"['going', 'next']",2
+100,This witness won't return my calls so we're gonna see if we can surprise him coming home.,neutral,"['witness', 'wont', 'return', 'call', 'gon', 'na', 'see', 'surprise', 'coming', 'home']",10
+101,"Sur-surprise him? We're not, we're not gonna make anybody mad are we?",fear,"['sursurprise', 'gon', 'na', 'make', 'anybody', 'mad']",6
+102,"Come on man!  Listen so uh, are you gonna squeeze the perps shoes a little bit before he lawyers up?",joy,"['come', 'man', 'listen', 'uh', 'gon', 'na', 'squeeze', 'perps', 'shoe', 'little', 'bit', 'lawyer']",12
+103,It's a witness not a perp. And no one talks like that!,anger,"['witness', 'perp', 'one', 'talk', 'like']",5
+104,"Yeah, no one talks like that!",anger,"['yeah', 'one', 'talk', 'like']",4
+105,Oh what? Like your Mr. Cop!,anger,"['oh', 'like', 'mr', 'cop']",4
+106,"Hey, I'm more cop than you two!",anger,"['hey', 'im', 'cop', 'two']",4
+107,How do you figure that?,neutral,['figure'],1
+108,"Hello! I'm in the front seat, okay? I'm Gary's partner!",neutral,"['hello', 'im', 'front', 'seat', 'okay', 'im', 'gary', 'partner']",8
+109,I guess so.,neutral,['guess'],1
+110,Here you go. Thank you!,neutral,"['go', 'thank']",2
+111,"Wait, Rach! Where's the other one?",neutral,"['wait', 'rach', 'wheres', 'one']",4
+112,"Oh what, you-you want both of them?",surprise,"['oh', 'youyou', 'want']",3
+113,"Rachel Karen Green, where's the other earring?!",anger,"['rachel', 'karen', 'green', 'wheres', 'earring']",5
+114,"Okay, okay, okay, look, just don't freak out, but I kinda lost it.",fear,"['okay', 'okay', 'okay', 'look', 'dont', 'freak', 'kinda', 'lost']",8
+115,"I know it's in the apartment, but I",neutral,"['know', 'apartment']",2
+116,"Well, what am I going to tell Monica? She wants to wear them tonight!",fear,"['well', 'going', 'tell', 'monica', 'want', 'wear', 'tonight']",7
+117,Tell her to wear her own earrings.,anger,"['tell', 'wear', 'earring']",3
+118,These,neutral,[],0
+119,Nooo! Nooooo! You lent me Monica's earrings?! I'm not allowed to borrow her stuff!,anger,"['nooo', 'nooooo', 'lent', 'monicas', 'earring', 'im', 'allowed', 'borrow', 'stuff']",9
+120,Why not?,neutral,[],0
+121,Because I lose her stuff!,anger,"['lose', 'stuff']",2
+122,"Uh Phoebe, can I see you for a second?",neutral,"['uh', 'phoebe', 'see', 'second']",4
+123,Yeah!,neutral,['yeah'],1
+124,What’s going on?,neutral,"['whats', 'going']",2
+125,Chandler’s gone again!,surprise,"['chandler', 'gone']",2
+126,Oh my God! Why would you play hide and seek with someone you know is a flight risk?!,sadness,"['oh', 'god', 'would', 'play', 'hide', 'seek', 'someone', 'know', 'flight', 'risk']",10
+127,Okay. You ready to push again?,neutral,"['okay', 'ready', 'push']",3
+128,I already had a baby. Leave me alone.,anger,"['already', 'baby', 'leave', 'alone']",4
+129,"Okay, okay, come on, you can do it. You can do it!",joy,"['okay', 'okay', 'come']",3
+130,Yeah!!,joy,['yeah'],1
+131,Little Leslie is here!,joy,"['little', 'leslie']",2
+132,We got another one!,surprise,"['got', 'another', 'one']",3
+133,"Oh my God, I can't believe I have two-two children.",surprise,"['oh', 'god', 'cant', 'believe', 'twotwo', 'child']",6
+134,How scary is that?,surprise,['scary'],1
+135,"Come on little Chandler, it's time to be born. Come on little Chandler! Come on!",joy,"['come', 'little', 'chandler', 'time', 'born', 'come', 'little', 'chandler', 'come']",9
+136,"All right, he's coming. He's coming!",joy,"['right', 'he', 'coming', 'he', 'coming']",5
+137,"Hey, where's his thing?",surprise,"['hey', 'wheres', 'thing']",3
+138,Chandler's a girl!,surprise,"['chandler', 'girl']",2
+139,"Oh God, kindergarten flashback.",surprise,"['oh', 'god', 'kindergarten', 'flashback']",4
+140,They musta read the sonogram wrong.,surprise,"['musta', 'read', 'sonogram', 'wrong']",4
+141,"Cause they, 'cause they thought it was a boy, but Chandler's a girl!",surprise,"['cause', 'cause', 'thought', 'boy', 'chandler', 'girl']",6
+142,Chandler's a girl!,surprise,"['chandler', 'girl']",2
+143,"Okay, keep saying it!",joy,"['okay', 'keep', 'saying']",3
+144,Am I too late?!,neutral,['late'],1
+145,"No-no ah, everything's okay. Everybody's healthy there's 30 fingers and 30 toes.",joy,"['nono', 'ah', 'everythings', 'okay', 'everybodys', 'healthy', 'there', 'finger', 'toe']",9
+146,We have our babies?,surprise,['baby'],1
+147,Yeah.,joy,['yeah'],1
+148,"Oh, we have our babies.",joy,"['oh', 'baby']",2
+149,Hey Toby!,joy,"['hey', 'toby']",2
+150,Hey Bobby.,neutral,"['hey', 'bobby']",2
+151,"It’s Bob actually. Hey, you work up here, can you tell me where this Chandler",neutral,"['bob', 'actually', 'hey', 'work', 'tell', 'chandler']",6
+152,"Uhh yeah. Yeah, it’s  right, right down there.  Right there, yeah. Can I ask you why?",neutral,"['uhh', 'yeah', 'yeah', 'right', 'right', 'right', 'yeah', 'ask']",8
+153,"I want to talk to that bastard, see what his problem is.",anger,"['want', 'talk', 'bastard', 'see', 'problem']",5
+154,"Okay Bob listen uhh, I’m the reason you didn’t get the job up here.",sadness,"['okay', 'bob', 'listen', 'uhh', 'im', 'reason', 'didnt', 'get', 'job']",9
+155,Toby don’t.,sadness,"['toby', 'dont']",2
+156,Bob!,sadness,['bob'],1
+157,Toby! I’m not gonna let you cover for him. Anything you say right now will just get me more upset with Chandler!,anger,"['toby', 'im', 'gon', 'na', 'let', 'cover', 'anything', 'say', 'right', 'get', 'upset', 'chandler']",12
+158,Thank you.  Oh Joey and look at this crib! It’s so cute!,joy,"['thank', 'oh', 'joey', 'look', 'crib', 'cute']",6
+159,I know! I found it on the street.,joy,"['know', 'found', 'street']",3
+160,Are you serious—Really?! It’s in such good condition.,surprise,"['seriousreally', 'good', 'condition']",3
+161,Yeah.,neutral,['yeah'],1
+162,Wow! Whoa-whoa what’s under the covers?,surprise,"['wow', 'whoawhoa', 'whats', 'cover']",4
+163,I don’t know.,neutral,"['dont', 'know']",2
+164,It’s moving.,fear,['moving'],1
+165,Ew.,disgust,['ew'],1
+166,It’s still——It’s got a tail! Get it out of here! Get it out of here!!,fear,"['stillits', 'got', 'tail', 'get', 'get']",5
+167,Ooh! Ah! Okay!,fear,"['ooh', 'ah', 'okay']",3
+168,"Well, I went over to Kyle’s last night to pick up a few things and we got to reminiscing",neutral,"['well', 'went', 'kyles', 'last', 'night', 'pick', 'thing', 'got', 'reminiscing']",9
+169,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there. So,sadness,"['talked', 'night', 'realized', 'reason', 'angry', 'still', 'feeling']",7
+170,Oh just say it Kyle!,surprise,"['oh', 'say', 'kyle']",3
+171,We’re gonna give it another try.,joy,"['gon', 'na', 'give', 'another', 'try']",5
+172,What about her whining and her constant need for attention?!,anger,"['whining', 'constant', 'need', 'attention']",4
+173,I’m gonna work on that.,neutral,"['im', 'gon', 'na', 'work']",4
+174,"Oh right, because you’re so capable of change.",anger,"['oh', 'right', 'youre', 'capable', 'change']",5
+175,"Y’know, he hums when he pees!",anger,"['yknow', 'hum', 'pee']",3
+176,I do know.,neutral,['know'],1
+177,"It makes him miss the bowl, but whatever.",disgust,"['make', 'miss', 'bowl', 'whatever']",4
+178,We’re so sorry.,sadness,['sorry'],1
+179,"That’s all right, we-we don’t need you. In fact, hey I’m over it already.",anger,"['thats', 'right', 'wewe', 'dont', 'need', 'fact', 'hey', 'im', 'already']",9
+180,"Yeah, and y’know what? I don’t give a tiny rat’s ass.",anger,"['yeah', 'yknow', 'dont', 'give', 'tiny', 'rat', 'as']",7
+181,"Yeah, we’re gonna go.",neutral,"['yeah', 'gon', 'na', 'go']",4
+182,"I’m sorry. Ugh, Pheebs, you were, you were right about her. Y’know, she",sadness,"['im', 'sorry', 'ugh', 'pheebs', 'right', 'yknow']",6
+183,"Oh. Y’know, he hums while he does other stuff to.",neutral,"['oh', 'yknow', 'hum', 'stuff']",4
+184,"Yeah, we're better off without them.",anger,"['yeah', 'better', 'without']",3
+185,"And y’know, even if they break up again, you’d better not let him in your sad men’s club!",anger,"['yknow', 'even', 'break', 'youd', 'better', 'let', 'sad', 'men', 'club']",9
+186,Divorced men’s club.,sadness,"['divorced', 'men', 'club']",3
+187,Why isn’t that valet back with my Porsche?,anger,"['isnt', 'valet', 'back', 'porsche']",4
+188,Maybe because you’ve got the keys?,anger,"['maybe', 'youve', 'got', 'key']",4
+189,This is totally your fault!,anger,"['totally', 'fault']",2
+190,My fault?! You threatened the judge!,anger,"['fault', 'threatened', 'judge']",3
+191,"Well, you ripped the paper out of the court reporter’s machine!!",anger,"['well', 'ripped', 'paper', 'court', 'reporter', 'machine']",6
+192,Phoebe!,neutral,['phoebe'],1
+193,Yeah?,neutral,['yeah'],1
+194,Have you seen Chandler?!,neutral,"['seen', 'chandler']",2
+195,No! Why?,neutral,[],0
+196,The woman from the museum called and said that there was a cancellation and that we could move up our wedding and Chandler heard!,fear,"['woman', 'museum', 'called', 'said', 'cancellation', 'could', 'move', 'wedding', 'chandler', 'heard']",10
+197,I know!,fear,['know'],1
+198,How bad is this?,fear,['bad'],1
+199,"Well for the regular guy, it’s bad, but Chandler, Oh dear God!",fear,"['well', 'regular', 'guy', 'bad', 'chandler', 'oh', 'dear', 'god']",8
+200,I know! I know! And he totally freaked out and I can’t find him anywhere!,fear,"['know', 'know', 'totally', 'freaked', 'cant', 'find', 'anywhere']",7
+201,What are you gonna do?,neutral,"['gon', 'na']",2
+202,"Well, I’m never gonna listen to you again, that’s for sure!",anger,"['well', 'im', 'never', 'gon', 'na', 'listen', 'thats', 'sure']",8
+203,"""Y’know, harm can it do if you go and put your name down?""",neutral,"['yknow', 'harm', 'go', 'put', 'name']",5
+204,Rachel said that!,surprise,"['rachel', 'said']",2
+205,Well Rachel’s not here!,anger,"['well', 'rachel']",2
+206,"Come on, come on.",neutral,"['come', 'come']",2
+207,"Damnit, damnit, damnit, damnit.",anger,"['damnit', 'damnit', 'damnit', 'damnit']",4
+208,This is all your fault.,anger,['fault'],1
+209,"This is supposed to be, like, the greatest day of my life, y'know?",anger,"['supposed', 'like', 'greatest', 'day', 'life', 'yknow']",6
+210,"My son is being born, and I should be in there, you know, instead of stuck in a closet with you.",anger,"['son', 'born', 'know', 'instead', 'stuck', 'closet']",6
+211,The woman I love is having a baby today. I've been waiting for this just as much as you have.,anger,"['woman', 'love', 'baby', 'today', 'ive', 'waiting', 'much']",7
+212,"No no no, believe me.",anger,['believe'],1
+213,"No one has been waiting for this as much as I have, ok?",anger,"['one', 'waiting', 'much', 'ok']",4
+214,And you know what the funny thing is?,neutral,"['know', 'funny', 'thing']",3
+215,"When this day is over, you get to go home with the baby, ok?",anger,"['day', 'get', 'go', 'home', 'baby', 'ok']",6
+216,Where does that leave me?,sadness,['leave'],1
+217,You get to be the baby's father.,neutral,"['get', 'baby', 'father']",3
+218,Everyone knows who you are.,neutral,"['everyone', 'know']",2
+219,Who am I?,anger,[],0
+220,"There's Mother's Day, there's Father's Day, there's no... Lesbian Lover Day.",sadness,"['there', 'mother', 'day', 'there', 'father', 'day', 'there', 'lesbian', 'lover', 'day']",10
+221,Every day is Lesbian Lover Day.,neutral,"['every', 'day', 'lesbian', 'lover', 'day']",5
+222,This is so great.,joy,['great'],1
+223,You wanna explain that?,neutral,"['wan', 'na', 'explain']",3
+224,"I mean, well, 'cause when I was growing up, you know my dad left, and my mother died, and my stepfather went to jail, so I barely had enough pieces of parents to make one whole one.",sadness,"['mean', 'well', 'cause', 'growing', 'know', 'dad', 'left', 'mother', 'died', 'stepfather', 'went', 'jail', 'barely', 'enough', 'piece', 'parent', 'make', 'one', 'whole', 'one']",20
+225,And here's this little baby who has like three whole parents who care about it so much that they're fighting over who gets to love it the most.,joy,"['here', 'little', 'baby', 'like', 'three', 'whole', 'parent', 'care', 'much', 'theyre', 'fighting', 'get', 'love']",13
+226,And it's not even born yet.,sadness,"['even', 'born', 'yet']",3
+227,"It's just, it's just the luckiest baby in the whole world.",joy,"['luckiest', 'baby', 'whole', 'world']",4
+228,"I'm sorry, you were fighting.",sadness,"['im', 'sorry', 'fighting']",3
+229,"Okay, it's a typical New York City apartment. Two girls are just hanging out.",neutral,"['okay', 'typical', 'new', 'york', 'city', 'apartment', 'two', 'girl', 'hanging']",9
+230,"Hi, how are you doing Kelly?",neutral,"['hi', 'kelly']",2
+231,"I'm doing just fine! God, Tiffany, you smell so great!",joy,"['im', 'fine', 'god', 'tiffany', 'smell', 'great']",6
+232,It's my new perfume. Why don't you come closer where you can,neutral,"['new', 'perfume', 'dont', 'come', 'closer']",5
+233,"Oh, y'know Joey, you are sick!",disgust,"['oh', 'yknow', 'joey', 'sick']",4
+234,This is disgusting!,disgust,['disgusting'],1
+235,I'm not reading this!,disgust,"['im', 'reading']",2
+236,What?! Wait-wait-wait! The handsome man was about to enter!!,surprise,"['waitwaitwait', 'handsome', 'man', 'enter']",4
+237,"All right, I'll give you this, Mr. Peanut is a better dresser.",neutral,"['right', 'ill', 'give', 'mr', 'peanut', 'better', 'dresser']",7
+238,"I mean he's got the monocle, he's got the top hat...",neutral,"['mean', 'he', 'got', 'monocle', 'he', 'got', 'top', 'hat']",8
+239,You know he's gay?,neutral,"['know', 'he', 'gay']",3
+240,I just wanna clarify this: are you outing Mr. Peanut?,neutral,"['wan', 'na', 'clarify', 'outing', 'mr', 'peanut']",6
+241,"Danielle! Hi! Uh- everybody, this is Danielle, Danielle, everybody.",neutral,"['danielle', 'hi', 'uh', 'everybody', 'danielle', 'danielle', 'everybody']",7
+242,Hi. Hi.,neutral,"['hi', 'hi']",2
+243,What are you doing here?,surprise,[],0
+244,"Well, what?",neutral,['well'],1
+245,What?,neutral,[],0
+246,What is it?,neutral,[],0
+247,That she left you?,surprise,['left'],1
+248,That she likes women?,neutral,"['like', 'woman']",2
+249,That she left you for another woman that likes women?,neutral,"['left', 'another', 'woman', 'like', 'woman']",5
+250,"Little louder, okay, I think there's a man on the twelfth floor in a coma that didn't quite hear you...",anger,"['little', 'louder', 'okay', 'think', 'there', 'man', 'twelfth', 'floor', 'coma', 'didnt', 'quite', 'hear']",12
+251,Then what?,neutral,[],0
+252,My first time with Carol was...,neutral,"['first', 'time', 'carol']",3
+253,What?,neutral,[],0
+254,It was my,neutral,[],0
+255,With Carol?  Oh.,surprise,"['carol', 'oh']",2
+256,"So in your whole life, you've only been with one——oh.",surprise,"['whole', 'life', 'youve', 'oneoh']",4
+257,"Whoah, boy, hockey was a big mistake! There was a whole bunch of stuff we could've done tonight!",surprise,"['whoah', 'boy', 'hockey', 'big', 'mistake', 'whole', 'bunch', 'stuff', 'couldve', 'done', 'tonight']",11
+258,Hi. Where is everybody?,neutral,"['hi', 'everybody']",2
+259,"Oh, it’s already closed, Chris gave me the keys to lock up-what is wrong?",sadness,"['oh', 'already', 'closed', 'chris', 'gave', 'key', 'lock', 'upwhat', 'wrong']",9
+260,"My marriage, I think my marriage is um, is kinda over.",sadness,"['marriage', 'think', 'marriage', 'um', 'kinda']",5
+261,Oh no! Why?,surprise,['oh'],1
+262,"‘Cause Carol’s a lesbian.  And, and I’m not one. And apparently it’s not a mix and match situation.",sadness,"['cause', 'carol', 'lesbian', 'im', 'one', 'apparently', 'mix', 'match', 'situation']",9
+263,"Oh my God! I don’t believe it! Oh, you poor bunny.",surprise,"['oh', 'god', 'dont', 'believe', 'oh', 'poor', 'bunny']",7
+264,I’m an idiot.,disgust,"['im', 'idiot']",2
+265,"I mean shoulda seen it, I mean Carol and I’d be out and she’d, she’d see some beautiful woman, and, and she’d be Ross y'know look at her, and I’d think, God, my wife is cool!",sadness,"['mean', 'shoulda', 'seen', 'mean', 'carol', 'id', 'shed', 'shed', 'see', 'beautiful', 'woman', 'shed', 'ross', 'yknow', 'look', 'id', 'think', 'god', 'wife', 'cool']",20
+266,"Aw! Hey, do you think that Susan person is her lover?",neutral,"['aw', 'hey', 'think', 'susan', 'person', 'lover']",6
+267,"Well, now I do!!",surprise,['well'],1
+268,I’m sorry.,sadness,"['im', 'sorry']",2
+269,Seven years.,sadness,"['seven', 'year']",2
+270,"I mean we’ve been together seven years, she’s the only woman who’s ever loved me, and the only woman I’ve-I’ve ever....",sadness,"['mean', 'weve', 'together', 'seven', 'year', 'shes', 'woman', 'who', 'ever', 'loved', 'woman', 'iveive', 'ever']",13
+271,"Aw, God Ross. Oh.",sadness,"['aw', 'god', 'ross', 'oh']",4
+272,I’ll do it.,neutral,['ill'],1
+273,No you won’t.,neutral,['wont'],1
+274,"Look he knows he did a terrible thing and I believe him, he’s sorry.",sadness,"['look', 'know', 'terrible', 'thing', 'believe', 'he', 'sorry']",7
+275,"But,  you’ve got one more apology to make, all right, you’ve got to apologize to Mary-Angela.",neutral,"['youve', 'got', 'one', 'apology', 'make', 'right', 'youve', 'got', 'apologize', 'maryangela']",10
+276,"Okay, absolutely!",joy,"['okay', 'absolutely']",2
+277,All right.,neutral,['right'],1
+278,You’ve got it.,neutral,"['youve', 'got']",2
+279,"Cookie, now you can punch him!",anger,"['cookie', 'punch']",2
+280,What?!,surprise,[],0
+281,"All right, that's it, I quit.",anger,"['right', 'thats', 'quit']",3
+282,What? I didn't say anything.,surprise,"['didnt', 'say', 'anything']",3
+283,"Yeah, but this  isn't the face of a person who trusts a person.",anger,"['yeah', 'isnt', 'face', 'person', 'trust', 'person']",6
+284,"Ok, this  is the face of a person who, you know, doesn't trust a person.",anger,"['ok', 'face', 'person', 'know', 'doesnt', 'trust', 'person']",7
+285,"I'm sorry. I'm sorry, Phoebe. It's just a little shorter than what we had discussed.",sadness,"['im', 'sorry', 'im', 'sorry', 'phoebe', 'little', 'shorter', 'discussed']",8
+286,Would you relax? I know what I am doing. This is how he wears it.,anger,"['would', 'relax', 'know', 'wear']",4
+287,Julie.,neutral,['julie'],1
+288,What?!,surprise,[],0
+289,Jody!,surprise,['jody'],1
+290,You were with Julie?,neutral,['julie'],1
+291,"Look, when it started I was just trying to be nice to her because she was my brother's girlfriend.",neutral,"['look', 'started', 'trying', 'nice', 'brother', 'girlfriend']",6
+292,"And then, one thing led to another and, before I knew it, we were...shopping.",neutral,"['one', 'thing', 'led', 'another', 'knew', 'wereshopping']",6
+293,Oh. Oh my God.,surprise,"['oh', 'oh', 'god']",3
+294,"Honey, wait. We only did it once. It didn't mean anything to me.",sadness,"['honey', 'wait', 'didnt', 'mean', 'anything']",5
+295,"Yeah, right.  Sure!",anger,"['yeah', 'right', 'sure']",3
+296,"Really, Rachel, I was thinking of you the whole time.",sadness,"['really', 'rachel', 'thinking', 'whole', 'time']",5
+297,"Look, I'm sorry, all right.",sadness,"['look', 'im', 'sorry', 'right']",4
+298,I never meant for you to find out!,sadness,"['never', 'meant', 'find']",3
+299,"Oh, please, you wanted to get caught.",anger,"['oh', 'please', 'wanted', 'get', 'caught']",5
+300,That is not true!,anger,['true'],1
+301,"Oh, so you just sort of happened to leave it in here?",anger,"['oh', 'sort', 'happened', 'leave']",4
+302,Did it ever occur to you that I might just be that stupid?,anger,"['ever', 'occur', 'might', 'stupid']",4
+303,"Ok, Monica. I just have to know one thing. Did you go with her to",sadness,"['ok', 'monica', 'know', 'one', 'thing', 'go']",6
+304,Yeah!,surprise,['yeah'],1
+305,I can’t say.,neutral,"['cant', 'say']",2
+306,Why?!,surprise,[],0
+307,Why not?,sadness,[],0
+308,I can’t say because he’s famous.,neutral,"['cant', 'say', 'he', 'famous']",4
+309,"Oh my God, who is it?!",surprise,"['oh', 'god']",2
+310,"Phoebe, come on, you have to tell us.",anger,"['phoebe', 'come', 'tell', 'u']",4
+311,"Okay, okay. It’s James Brolin. James Brolin is the father of my baby.",neutral,"['okay', 'okay', 'james', 'brolin', 'james', 'brolin', 'father', 'baby']",8
+312,As in Barbara Streisand’s husband James Brolin?,surprise,"['barbara', 'streisand', 'husband', 'james', 'brolin']",5
+313,What?! Well he never said that to me!,surprise,"['well', 'never', 'said']",3
+314,In,neutral,[],0
+315,"Oh, this life! Oh okay no, Chandler's is worse.",sadness,"['oh', 'life', 'oh', 'okay', 'chandler', 'worse']",6
+316,"Man, it must be so cool remembering stuff like that! I don't have any past life memories.",joy,"['man', 'must', 'cool', 'remembering', 'stuff', 'like', 'dont', 'past', 'life', 'memory']",10
+317,Of course you don't sweetie. You're brand new.,neutral,"['course', 'dont', 'sweetie', 'youre', 'brand', 'new']",6
+318,I know Monica's worst Thanksgiving.,neutral,"['know', 'monicas', 'worst', 'thanksgiving']",4
+319,"Oh, let's not tell this story.",sadness,"['oh', 'let', 'tell', 'story']",4
+320,"Oh, come on!",sadness,"['oh', 'come']",2
+321,"Oh no, I know! I know! It's the one where Joey got Monica's turkey stuck on his head!",joy,"['oh', 'know', 'know', 'one', 'joey', 'got', 'monicas', 'turkey', 'stuck', 'head']",10
+322,What?! Joey got a turkey stuck on his head?!,surprise,"['joey', 'got', 'turkey', 'stuck', 'head']",5
+323,"Hey, it's not like it sounds.",neutral,"['hey', 'like', 'sound']",3
+324,It's,neutral,[],0
+325,"Wendy, we had a deal!  Yeah, you promised! Wendy! Wendy! Wendy!",anger,"['wendy', 'deal', 'yeah', 'promised', 'wendy', 'wendy', 'wendy']",7
+326,Who was that?,neutral,[],0
+327,Wendy bailed. I have no waitress.,sadness,"['wendy', 'bailed', 'waitress']",3
+328,Oh... that's too bad. Bye bye.,sadness,"['oh', 'thats', 'bad', 'bye', 'bye']",5
+329,Ten dollars an hour.,neutral,"['ten', 'dollar', 'hour']",3
+330,No.,neutral,[],0
+331,Twelve dollars an hour.,neutral,"['twelve', 'dollar', 'hour']",3
+332,"Mon. I wish I could, but I've made plans to walk around.",neutral,"['mon', 'wish', 'could', 'ive', 'made', 'plan', 'walk', 'around']",8
+333,"You know, Rachel, when you ran out of your wedding, I was there for you.",anger,"['know', 'rachel', 'ran', 'wedding']",4
+334,"I put a roof over your head, and if that means nothing to you...  twenty dollars an hour.",anger,"['put', 'roof', 'head', 'mean', 'nothing', 'twenty', 'dollar', 'hour']",8
+335,Done.,joy,['done'],1
+336,"The reactor’s gonna blow in three seconds, we’re never gonna make it!",fear,"['reactor', 'gon', 'na', 'blow', 'three', 'second', 'never', 'gon', 'na', 'make']",10
+337,You’ve got to get out of here! Save yourself!,fear,"['youve', 'got', 'get', 'save']",4
+338,No! I won’t leave you!,fear,"['wont', 'leave']",2
+339,"Don’t worry about me, I’m a robot! I’m just a machine!!",sadness,"['dont', 'worry', 'im', 'robot', 'im', 'machine']",6
+340,No you’re not! Not to me!,anger,['youre'],1
+341,Oh my God.,surprise,"['oh', 'god']",2
+342,What?,neutral,[],0
+343,I am,neutral,[],0
+344,"Yeah, you’re great! Okay, let’s take it from",joy,"['yeah', 'youre', 'great', 'okay', 'let', 'take']",6
+345,"No, I mean I was really acting my ass off.",joy,"['mean', 'really', 'acting', 'as']",4
+346,"Yeah, I thought I was pretty good too.",joy,"['yeah', 'thought', 'pretty', 'good']",4
+347,"Oh yeah, you’re solid. Yeah, you’re just no me.",neutral,"['oh', 'yeah', 'youre', 'solid', 'yeah', 'youre']",6
+348,Y’know what? I think that’s enough for now. Yeah. I don’t want to be over rehearsed.,neutral,"['yknow', 'think', 'thats', 'enough', 'yeah', 'dont', 'want', 'rehearsed']",8
+349,Fine!,anger,['fine'],1
+350,I’ll do it without you!,anger,"['ill', 'without']",2
+351,I don’t need you or anybody else!,anger,"['dont', 'need', 'anybody', 'else']",4
+352,I’m gonna make it on my own!,anger,"['im', 'gon', 'na', 'make']",4
+353,You’ll see!!,anger,"['youll', 'see']",2
+354,You’ll,neutral,['youll'],1
+355,I can't believe that Ross is gone. It is just so sad.,sadness,"['cant', 'believe', 'ross', 'gone', 'sad']",5
+356,I didn't know Ross and you were so close.,surprise,"['didnt', 'know', 'ross', 'close']",4
+357,We weren't but we had one class together. He was such a great    guy and he talked so passionately about science. I always remembered him.,sadness,"['werent', 'one', 'class', 'together', 'great', 'guy', 'talked', 'passionately', 'science', 'always', 'remembered']",11
+358,I'm sure that would mean a lot to him.,neutral,"['im', 'sure', 'would', 'mean', 'lot']",5
+359,"And if heaven has a    door, I'm sure he's pressing his ear up against it and listening intently.",neutral,"['heaven', 'door', 'im', 'sure', 'he', 'pressing', 'ear', 'listening', 'intently']",9
+360,I thought so many times about calling him and asking him out.    I guess I really missed my chance.,sadness,"['thought', 'many', 'time', 'calling', 'asking', 'guess', 'really', 'missed', 'chance']",9
+361,But you didn't!,joy,['didnt'],1
+362,I'm still alive!!,joy,"['im', 'still', 'alive']",3
+363,"Kori, I know this is a big surprise for you.",joy,"['kori', 'know', 'big', 'surprise']",4
+364,It's a long story but the things    you just said really made my day!,joy,"['long', 'story', 'thing', 'said', 'really', 'made', 'day']",7
+365,"I mean, the fact that you are here means more    to me than if this room were filled with people!",joy,"['mean', 'fact', 'mean', 'room', 'filled', 'people']",6
+366,"You sick freak, who does that? I can't believe I had a crush on    you!",anger,"['sick', 'freak', 'cant', 'believe', 'crush']",5
+367,Did you hear that? Kori Weston had a crush on me!!,joy,"['hear', 'kori', 'weston', 'crush']",4
+368,We’ll do a quick check.,neutral,"['well', 'quick', 'check']",3
+369,Okay.,neutral,['okay'],1
+370,"So, eight days late huh?",surprise,"['eight', 'day', 'late', 'huh']",4
+371,Yeah.,neutral,['yeah'],1
+372,You must be a little uncomfortable.,neutral,"['must', 'little', 'uncomfortable']",3
+373,"Eh, just a tad.",neutral,"['eh', 'tad']",2
+374,"You’re about 80 percent effaced, so you’re on your way.",neutral,"['youre', 'percent', 'effaced', 'youre', 'way']",5
+375,It still could last a little while longer.,neutral,"['still', 'could', 'last', 'little', 'longer']",5
+376,If you’re anxious there are a few ways to help things along.,neutral,"['youre', 'anxious', 'way', 'help', 'thing', 'along']",6
+377,Do them!!,anger,[],0
+378,"Actually, they’re things you can do. Just some home remedies, but in my experience I’ve found that some of them are quite effective.",neutral,"['actually', 'theyre', 'thing', 'home', 'remedy', 'experience', 'ive', 'found', 'quite', 'effective']",10
+379,"Well, we are ready to try anything.",neutral,"['well', 'ready', 'try', 'anything']",4
+380,"Okay, there’s an herbal tea you can drink.",neutral,"['okay', 'there', 'herbal', 'tea', 'drink']",5
+381,Okay.,neutral,['okay'],1
+382,What is wrong with Emma?,sadness,"['wrong', 'emma']",2
+383,"Oh she misunderstood, she thought she was moving to Tulsa.",neutral,"['oh', 'misunderstood', 'thought', 'moving', 'tulsa']",5
+384,Anytime you're ready.,neutral,"['anytime', 'youre', 'ready']",3
+385,"Ok, ok, here we go.",neutral,"['ok', 'ok', 'go']",3
+386,"Ok, where am I talking to, here?",neutral,"['ok', 'talking']",2
+387,"I mean, uh, well, there is one way that seems to offer a certain acoustical advantage, but...",neutral,"['mean', 'uh', 'well', 'one', 'way', 'seems', 'offer', 'certain', 'acoustical', 'advantage']",10
+388,Just aim for the bump.,neutral,"['aim', 'bump']",2
+389,"Ok, ok, ok, ok, here goes.",neutral,"['ok', 'ok', 'ok', 'ok', 'go']",5
+390,"You know, I, you know, can't do this.",fear,"['know', 'know', 'cant']",3
+391,"Uh, this is too weird.",disgust,"['uh', 'weird']",2
+392,I feel stupid.,sadness,"['feel', 'stupid']",2
+393,"So don't do it, it's fine. You don't have to do it just because Susan does it.",neutral,"['dont', 'fine', 'dont', 'susan']",4
+394,"Hello, baby. Hello, hello.",joy,"['hello', 'baby', 'hello', 'hello']",4
+395,"Oh, hi. It’s Mark.",neutral,"['oh', 'hi', 'mark']",3
+396,Easy. Easy. You have to go to the hospital. Okay?,fear,"['easy', 'easy', 'go', 'hospital', 'okay']",5
+397,"Okay, I do.",neutral,['okay'],1
+398,Okay.,neutral,['okay'],1
+399,I really do.,neutral,['really'],1
+400,"Okay, I’m gonna get your coat and then I’ll-I’ll put you in a cab.",neutral,"['okay', 'im', 'gon', 'na', 'get', 'coat', 'illill', 'put', 'cab']",9
+401,"Okay. Oh wait, wait-wait, you’re not gonna come with me?",sadness,"['okay', 'oh', 'wait', 'waitwait', 'youre', 'gon', 'na', 'come']",8
+402,Of course I am. I just have to make a call.,surprise,"['course', 'make', 'call']",3
+403,Okay.,neutral,['okay'],1
+404,Okay?,neutral,['okay'],1
+405,Thank you.  Oww!!!! God!,surprise,"['thank', 'oww', 'god']",3
+406,"What?! I wh-, what’s wrong?",fear,"['wh', 'whats', 'wrong']",3
+407,"I’m sorry, I just can’t go to the hospital lookin’ like this.",disgust,"['im', 'sorry', 'cant', 'go', 'hospital', 'lookin', 'like']",7
+408,"Pete Becker is circling the ring now. It looks like, he’s just trying to feel him out. Oh, Bruiser is just...",neutral,"['pete', 'becker', 'circling', 'ring', 'look', 'like', 'he', 'trying', 'feel', 'oh', 'bruiser']",11
+409,"Run! Run you crazy, rich freak!",fear,"['run', 'run', 'crazy', 'rich', 'freak']",5
+410,"Oh, I can’t watch this.",fear,"['oh', 'cant', 'watch']",3
+411,"Check it out, he’s winning!  Pete’s winning!",surprise,"['check', 'he', 'winning', 'petes', 'winning']",5
+412,Really?!,surprise,['really'],1
+413,No-o-o!!,fear,['nooo'],1
+414,"Uh-oh, Bruiser has Becker on the canvas and is going for his favourite area.",fear,"['uhoh', 'bruiser', 'becker', 'canvas', 'going', 'favourite', 'area']",7
+415,Oh! Oh!,disgust,"['oh', 'oh']",2
+416,"Wait, if that’s his favourite area, why is he being so mean to it?",surprise,"['wait', 'thats', 'favourite', 'area', 'mean']",5
+417,"Well, this is ironic.",surprise,"['well', 'ironic']",2
+418,"Of your last two boyfriends, Richard didn’t want to have kids, and from the looks of it, now Pete can’t.",neutral,"['last', 'two', 'boyfriend', 'richard', 'didnt', 'want', 'kid', 'look', 'pete', 'cant']",10
+419,"Dude, you don’t have to brag! We got nothing here!!",anger,"['dude', 'dont', 'brag', 'got', 'nothing']",5
+420,Should we tell Rachel there’s an empty private room right next door to hers?,neutral,"['tell', 'rachel', 'there', 'empty', 'private', 'room', 'right', 'next', 'door']",9
+421,"We could, or we can have sex in it.",joy,"['could', 'sex']",2
+422,"Well let me think about that, while I remove my pants!",joy,"['well', 'let', 'think', 'remove', 'pant']",5
+423,I thought I was a complete idiot.,surprise,"['thought', 'complete', 'idiot']",3
+424,"Hey, I’m with you. He even asked me if I thought you’d go out with him.",neutral,"['hey', 'im', 'even', 'asked', 'thought', 'youd', 'go']",7
+425,"Oh! Oh, I think I’m gonna throw up a little bit. What did you say?",disgust,"['oh', 'oh', 'think', 'im', 'gon', 'na', 'throw', 'little', 'bit', 'say']",10
+426,I said no.,neutral,['said'],1
+427,What?!,surprise,[],0
+428,What? I…I just figured since you’re pregnant you’re not gonna be seeing people.,surprise,"['ii', 'figured', 'since', 'youre', 'pregnant', 'youre', 'gon', 'na', 'seeing', 'people']",10
+429,"Okay Joey, first of all Kash Ford is not people. Second of all, what did he say when you told him I was pregnant?",anger,"['okay', 'joey', 'first', 'kash', 'ford', 'people', 'second', 'say', 'told', 'pregnant']",10
+430,I didn’t tell him. I didn’t know if you were telling people. This is back when I thought Kash was still people.,neutral,"['didnt', 'tell', 'didnt', 'know', 'telling', 'people', 'back', 'thought', 'kash', 'still', 'people']",11
+431,"Good-good, don’t tell him. Don’t tell him. Just have him call me okay?",fear,"['goodgood', 'dont', 'tell', 'dont', 'tell', 'call', 'okay']",7
+432,"Rach look, I really don’t think that’s such a great",sadness,"['rach', 'look', 'really', 'dont', 'think', 'thats', 'great']",7
+433,"Okay, you go do it! I’ll come back to that set! I’ll meet more actors! I’ll meet ‘em all!",joy,"['okay', 'go', 'ill', 'come', 'back', 'set', 'ill', 'meet', 'actor', 'ill', 'meet', 'em']",12
+434,"Ohh, here you are. I was looking for you before. Joshua’s gone so you and Emily are free to go.",neutral,"['ohh', 'looking', 'joshua', 'gone', 'emily', 'free', 'go']",7
+435,That’s okay.,neutral,"['thats', 'okay']",2
+436,"She’s still in there enjoying her fake party and uh, it’s too late to do any of the things I had planned, so",neutral,"['shes', 'still', 'enjoying', 'fake', 'party', 'uh', 'late', 'thing', 'planned']",9
+437,Ah! Ah! I forgot my jacket!,anger,"['ah', 'ah', 'forgot', 'jacket']",4
+438,You tell them to wait!,anger,"['tell', 'wait']",2
+439,Okay. Wait! Wait!,neutral,"['okay', 'wait', 'wait']",3
+440,Emily.,neutral,['emily'],1
+441,Oh no-no-no! Oh-no!  No! No! Emily!,anger,"['oh', 'nonono', 'ohno', 'emily']",4
+442,Hey. Call me when you get there. Okay?,neutral,"['hey', 'call', 'get', 'okay']",4
+443,Okay.,neutral,['okay'],1
+444,I know. You're the guy who wouldn't chip in for the handyman.,sadness,"['know', 'youre', 'guy', 'wouldnt', 'chip', 'handyman']",6
+445,Nevermind!,anger,['nevermind'],1
+446,"No, I-I actually thought it was unfair the way everyone reacted. I mean you had just moved in.",neutral,"['ii', 'actually', 'thought', 'unfair', 'way', 'everyone', 'reacted', 'mean', 'moved']",9
+447,Jen.,neutral,['jen'],1
+448,"Jen, I know this may sound a little… But uh, would you maybe wanna grab a cup of coffee sometime, or",neutral,"['jen', 'know', 'may', 'sound', 'little', 'uh', 'would', 'maybe', 'wan', 'na', 'grab', 'cup', 'coffee', 'sometime']",14
+449,Sure! That would be nice.,joy,"['sure', 'would', 'nice']",3
+450,Umm?,neutral,['umm'],1
+451,Oh! My number is on there.  Give me a call.,joy,"['oh', 'number', 'give', 'call']",4
+452,I will give you a call.,neutral,"['give', 'call']",2
+453,I'll see you later.,neutral,"['ill', 'see', 'later']",3
+454,Okay!,joy,['okay'],1
+455,I forgot my paper.,neutral,"['forgot', 'paper']",2
+456,"Here we go. Okay, brace yourselves.",neutral,"['go', 'okay', 'brace']",3
+457,What?,neutral,[],0
+458,Okay.,neutral,['okay'],1
+459,Ow!,surprise,['ow'],1
+460,Aren’t you gonna go?,neutral,"['arent', 'gon', 'na', 'go']",4
+461,No. Thank you.,neutral,['thank'],1
+462,"No, Rachel never pees in public restrooms.",neutral,"['rachel', 'never', 'pee', 'public', 'restroom']",5
+463,"Well, they never have any paper in there y'know. So my rule is ‘no tissue, no tuschy.’  Well, if everybody’s going.",neutral,"['well', 'never', 'paper', 'yknow', 'rule', 'tissue', 'tuschy', 'well', 'everybodys', 'going']",10
+464,"No, y'know what don’t close it  ‘cause the... keys...are in there.",neutral,"['yknow', 'dont', 'close', 'cause', 'keysare']",5
+465,"Oh, no-no-no-no-no-no!!",fear,"['oh', 'nononononono']",2
+466,What’s going on?,neutral,"['whats', 'going']",2
+467,My lighter’s in there!,fear,['lighter'],1
+468,I promise.,neutral,['promise'],1
+469,"Although, don’t feel like you can’t visit.",neutral,"['although', 'dont', 'feel', 'like', 'cant', 'visit']",6
+470,"Hey, is, is, is Chandler here?",neutral,"['hey', 'chandler']",2
+471,"No, no he’s not.",neutral,['he'],1
+472,"You guys, Joey just saw Janice kissing her ex-husband.",surprise,"['guy', 'joey', 'saw', 'janice', 'kissing', 'exhusband']",6
+473,"What?  So what are you going to do? I mean how, how are you going to tell Chandler?",surprise,"['going', 'mean', 'going', 'tell', 'chandler']",5
+474,"Well, I was thinking about that and I, I think the best way would be, to not.",neutral,"['well', 'thinking', 'think', 'best', 'way', 'would']",6
+475,"Joey, you can’t keep this to yourself, if you know about this, you have to tell him.",neutral,"['joey', 'cant', 'keep', 'know', 'tell']",5
+476,"It’ll kill him. I mean it’ll, it’ll just kill him.",fear,"['itll', 'kill', 'mean', 'itll', 'itll', 'kill']",6
+477,"Well, you could wait ‘til I go to the dentist, maybe",neutral,"['well', 'could', 'wait', 'til', 'go', 'dentist', 'maybe']",7
+478,"Hey, what are you doing here?",neutral,['hey'],1
+479,"Well, oh just ah, I was just wondering, when you and I split up, did you get the tape that was half the last episode of",neutral,"['well', 'oh', 'ah', 'wondering', 'split', 'get', 'tape', 'half', 'last', 'episode']",10
+480,"Ah yeah, but now it’s Susan and me in Mexico and the hostages coming home.",neutral,"['ah', 'yeah', 'susan', 'mexico', 'hostage', 'coming', 'home']",7
+481,Where’s Ben?,neutral,"['wheres', 'ben']",2
+482,He’s sleeping.,neutral,"['he', 'sleeping']",2
+483,"Ahh.  Ooh, is this a ah, is this a bad time?",surprise,"['ahh', 'ooh', 'ah', 'bad', 'time']",5
+484,"Umm, yeah, actually, Susan’s gonna be home any minute, it’s kinda an anniversary.",joy,"['umm', 'yeah', 'actually', 'susans', 'gon', 'na', 'home', 'minute', 'kinda', 'anniversary']",10
+485,"Oh! I thought you guys got married in uh, January?",surprise,"['oh', 'thought', 'guy', 'got', 'married', 'uh', 'january']",7
+486,It’s not that kind of anniversary.,neutral,"['kind', 'anniversary']",2
+487,Ah!  Oh.,surprise,"['ah', 'oh']",2
+488,Sooo!! Anyway...,neutral,"['sooo', 'anyway']",2
+489,Where are we gonna find a tiny little hat?,neutral,"['gon', 'na', 'find', 'tiny', 'little', 'hat']",6
+490,"Oh, oh, oh, I’ll get ‘Rainy Day Bear’!!",joy,"['oh', 'oh', 'oh', 'ill', 'get', 'rainy', 'day', 'bear']",8
+491,"Because he’ll know what to do?  Oh my God, you’re a genius!",joy,"['hell', 'know', 'oh', 'god', 'youre', 'genius']",6
+492,"Oh God, oh God, it’s sowed on though.",fear,"['oh', 'god', 'oh', 'god', 'sowed', 'though']",6
+493,Give it. Give it.,neutral,"['give', 'give']",2
+494,Okay.,neutral,['okay'],1
+495,Oh!!,surprise,['oh'],1
+496,"Oh, it’s just like a bloodbath in here today.",sadness,"['oh', 'like', 'bloodbath', 'today']",4
+497,Please. This is so your fault.,anger,"['please', 'fault']",2
+498,"How, how is this my fault?",surprise,['fault'],1
+499,"Look, Carol never threw me out of a room before you came along.",anger,"['look', 'carol', 'never', 'threw', 'room', 'came', 'along']",7
+500,"Yeah? Well, there's a lot of things Carol never did before I came along.",anger,"['yeah', 'well', 'there', 'lot', 'thing', 'carol', 'never', 'came', 'along']",9
+501,"Hey, hey, ok, all right, that's it!",anger,"['hey', 'hey', 'ok', 'right', 'thats']",5
+502,Get in here.,anger,['get'],1
+503,Come on.,neutral,['come'],1
+504,"My god, you guys, I don't believe you.",anger,"['god', 'guy', 'dont', 'believe']",4
+505,There are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing.,anger,"['child', 'coming', 'world', 'building', 'negative', 'fighting', 'noise', 'first', 'thing', 'hearing']",10
+506,"So just stop all the yelling, just stop it!",anger,"['stop', 'yelling', 'stop']",3
+507,"Yeah, Susan.",neutral,"['yeah', 'susan']",2
+508,"Don't make me do this again, I don't like my voice like this.",anger,"['dont', 'make', 'dont', 'like', 'voice', 'like']",6
+509,"Ok, who wants to hear something ironic?",neutral,"['ok', 'want', 'hear', 'something', 'ironic']",5
+510,"Oh! Here it is!  Ooh, Joey! Why did you sign it, ""Son of a bitch?""",surprise,"['oh', 'ooh', 'joey', 'sign', 'son', 'bitch']",6
+511,I didn’t do that! Who would’ve done that?!,surprise,"['didnt', 'wouldve', 'done']",3
+512,Son of a bitch!,anger,"['son', 'bitch']",2
+513,"Okay, maybe ask this guy.",neutral,"['okay', 'maybe', 'ask', 'guy']",4
+514,"Oh, did I not mention? Carl is a guy I hired to be my identical twin for a medical research project.",neutral,"['oh', 'mention', 'carl', 'guy', 'hired', 'identical', 'twin', 'medical', 'research', 'project']",10
+515,"Y’know sometimes the good ideas are just right in front of you, aren’t they?",joy,"['yknow', 'sometimes', 'good', 'idea', 'right', 'front', 'arent']",7
+516,"Okay, I know it sounds crazy, but I think it might work. Y’know? The only problem is, Carl’s acting is",neutral,"['okay', 'know', 'sound', 'crazy', 'think', 'might', 'work', 'yknow', 'problem', 'carls', 'acting']",11
+517,The,neutral,[],0
+518,"Yeah, he’s the reason I didn’t get that big",neutral,"['yeah', 'he', 'reason', 'didnt', 'get', 'big']",6
+519,"Hey, uh can I get a little piece of that cake?",neutral,"['hey', 'uh', 'get', 'little', 'piece', 'cake']",6
+520,Pizza!! We like Pizza!! Get out!!!,anger,"['pizza', 'like', 'pizza', 'get']",4
+521,"Hey Monica, there’s a customer who wants to complement the chef, should I let him in?",neutral,"['hey', 'monica', 'there', 'customer', 'want', 'complement', 'chef', 'let']",8
+522,"Sure, I love this part!",joy,"['sure', 'love', 'part']",3
+523,Come on in.,neutral,['come'],1
+524,"Really? In the moment, I really wanted to kiss you too. In the moment.",joy,"['really', 'moment', 'really', 'wanted', 'kiss', 'moment']",6
+525,"In the moment, yeah.",neutral,"['moment', 'yeah']",2
+526,But only in the moment. So do ya wanna kiss again?,joy,"['moment', 'ya', 'wan', 'na', 'kiss']",5
+527,"Sure, New Year’s Eve is only two weeks away. Can you wait?",neutral,"['sure', 'new', 'year', 'eve', 'two', 'week', 'away', 'wait']",8
+528,No.,neutral,[],0
+529,Me neither.,neutral,['neither'],1
+530,"3, 2,",neutral,[],0
+531,"Joey, you don’t have to count down every time we kiss.",joy,"['joey', 'dont', 'count', 'every', 'time', 'kiss']",6
+532,"Uh, yeah, okay. Except I sorta felt like I needed a couple of seconds to get ready.",joy,"['uh', 'yeah', 'okay', 'except', 'sorta', 'felt', 'like', 'needed', 'couple', 'second', 'get', 'ready']",12
+533,Alright. Phoebe?,neutral,"['alright', 'phoebe']",2
+534,"Okay, okay.",neutral,"['okay', 'okay']",2
+535,"If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!",joy,"['omnipotent', 'day', 'would', 'want', 'um', 'world', 'peace', 'hunger', 'good', 'thing', 'rainforestand', 'bigger', 'boob']",13
+536,"Yeah, see.. you took mine. Chandler, what about you?",neutral,"['yeah', 'see', 'took', 'mine', 'chandler']",5
+537,"Uh, if I were omnipotent for a day, I'd.. make myself omnipotent forever.",neutral,"['uh', 'omnipotent', 'day', 'id', 'make', 'omnipotent', 'forever']",7
+538,"See, there's always one guy.  ""If I had a wish, I'd wish for three more wishes.""",disgust,"['see', 'there', 'always', 'one', 'guy', 'wish', 'id', 'wish', 'three', 'wish']",10
+539,"Hey Joey. Hi. Hey, buddy.",neutral,"['hey', 'joey', 'hi', 'hey', 'buddy']",5
+540,"Hey, Joey, what would you do if you were omnipotent?",neutral,"['hey', 'joey', 'would', 'omnipotent']",4
+541,Probably kill myself!,sadness,"['probably', 'kill']",2
+542,..Excuse me?,surprise,['excuse'],1
+543,"Hey, if Little Joey's dead, then I got no reason to live!",sadness,"['hey', 'little', 'joeys', 'dead', 'got', 'reason', 'live']",7
+544,"Joey, uh-",surprise,"['joey', 'uh']",2
+545,You,neutral,[],0
+546,I’m sorry.,sadness,"['im', 'sorry']",2
+547,"Joey, onstage!",anger,"['joey', 'onstage']",2
+548,Well can you at least stay to the end of the play?,sadness,"['well', 'least', 'stay', 'end', 'play']",5
+549,"I mean, I’ll go to the airport with ya, I-I wanna say good bye.",sadness,"['mean', 'ill', 'go', 'airport', 'ya', 'ii', 'wan', 'na', 'say', 'good', 'bye']",11
+550,Where are you Vic?,neutral,['vic'],1
+551,Flight’s in an hour. I-I gotta go.,sadness,"['flight', 'hour', 'ii', 'got', 'ta', 'go']",6
+552,Vic! Vic!,anger,"['vic', 'vic']",2
+553,In a minute!!,anger,['minute'],1
+554,So this is it? Victor?,sadness,['victor'],1
+555,"Yeah, I guess it is.",sadness,"['yeah', 'guess']",2
+556,"Listen, I ah, I gotta say good bye, and-and I gotta say it quick ‘cause this is killing me.",sadness,"['listen', 'ah', 'got', 'ta', 'say', 'good', 'bye', 'andand', 'got', 'ta', 'say', 'quick', 'cause', 'killing']",14
+557,"One thing you gotta know, is that I will never forget you.",sadness,"['one', 'thing', 'got', 'ta', 'know', 'never', 'forget']",7
+558,"But, you’ve got things you have to do now, and so do I.",sadness,"['youve', 'got', 'thing']",3
+559,"And so… I’m gonna get on this spaceship,  and I’m gonna go to Blargon 7 in search of alternative fuels.",sadness,"['im', 'gon', 'na', 'get', 'spaceship', 'im', 'gon', 'na', 'go', 'blargon', 'search', 'alternative', 'fuel']",13
+560,"But when I return, 200 years from now, you’ll be long gone.",sadness,"['return', 'year', 'youll', 'long', 'gone']",5
+561,But I won’t have aged at all.,neutral,"['wont', 'aged']",2
+562,"So you tell your great-great-granddaughter to look me up, because Adrienne, baby, I’m gonna want to meet her.",neutral,"['tell', 'greatgreatgranddaughter', 'look', 'adrienne', 'baby', 'im', 'gon', 'na', 'want', 'meet']",10
+563,"So long, Vic!",sadness,"['long', 'vic']",2
+564,Nooo Way! The most romantic song ever is,neutral,"['nooo', 'way', 'romantic', 'song', 'ever']",5
+565,"See, I-I think that one that Elton John wrote for, um, that guy on",neutral,"['see', 'ii', 'think', 'one', 'elton', 'john', 'wrote', 'um', 'guy']",9
+566,"What song was that, Pheebs?",neutral,"['song', 'pheebs']",2
+567,Hi Monica!,joy,"['hi', 'monica']",2
+568,Hey Mon!,joy,"['hey', 'mon']",2
+569,Hey Mon!,joy,"['hey', 'mon']",2
+570,"Oh my God, has she slept at all?",surprise,"['oh', 'god', 'slept']",3
+571,Nope.,neutral,['nope'],1
+572,"No, it's been three nights in a row.",neutral,"['three', 'night', 'row']",3
+573,"Yeah, she finally stopped crying yesterday, but then she found one of Richard's cigar butts out on the terrace, so.",neutral,"['yeah', 'finally', 'stopped', 'cry', 'yesterday', 'found', 'one', 'richards', 'cigar', 'butt', 'terrace']",11
+574,"Oh, okay that explains it.",neutral,"['oh', 'okay', 'explains']",3
+575,"I got a call at two in the morning, but all I could hear was, like, this high squeaky sound, so I thought okay its like a mouse or a opossum.",neutral,"['got', 'call', 'two', 'morning', 'could', 'hear', 'like', 'high', 'squeaky', 'sound', 'thought', 'okay', 'like', 'mouse', 'opossum']",15
+576,But then I realized where would a mouse or a opossum get the money to make the phone call.,joy,"['realized', 'would', 'mouse', 'opossum', 'get', 'money', 'make', 'phone', 'call']",9
+577,"So uh, man, are you gonna go to the play with me tonight?",neutral,"['uh', 'man', 'gon', 'na', 'go', 'play', 'tonight']",7
+578,"Y’know what, I don’t know how comfortable I am going to see how hot the sex is between some guy and your girlfriend.",disgust,"['yknow', 'dont', 'know', 'comfortable', 'going', 'see', 'hot', 'sex', 'guy', 'girlfriend']",10
+579,"Yeah, I know but",neutral,"['yeah', 'know']",2
+580,"Oh no-no-no, I’m there.",neutral,"['oh', 'nonono', 'im']",3
+581,Hey!,surprise,['hey'],1
+582,Hey Mon! Want some pancakes?,joy,"['hey', 'mon', 'want', 'pancake']",4
+583,You made pancakes?,surprise,"['made', 'pancake']",2
+584,Yep! Grab a plate.,joy,"['yep', 'grab', 'plate']",3
+585,"No-no, stay right there.  Gettin’ closer.",neutral,"['nono', 'stay', 'right', 'gettin', 'closer']",5
+586,"Okay, okay, but don’t worry, because we also have cereals, muffins, waffles,",neutral,"['okay', 'okay', 'dont', 'worry', 'also', 'cereal', 'muffin', 'waffle']",8
+587,"Listen also we’re uh, we’re watching the game here Saturday night, if people want to come over.",neutral,"['listen', 'also', 'uh', 'watching', 'game', 'saturday', 'night', 'people', 'want', 'come']",10
+588,Oh yeah!,joy,"['oh', 'yeah']",2
+589,"Yes, if the foxhole was lined with sandwiches.",neutral,"['yes', 'foxhole', 'lined', 'sandwich']",4
+590,"Yeah, hero sandwiches.",neutral,"['yeah', 'hero', 'sandwich']",3
+591,Well you all know that I'm a pacifist so I'm not interested in war in any way.,neutral,"['well', 'know', 'im', 'pacifist', 'im', 'interested', 'war', 'way']",8
+592,"When the revolution comes, I will have to destroy you all.",neutral,"['revolution', 'come', 'destroy']",3
+593,Not you Joey.,neutral,['joey'],1
+594,Oh my good God.,surprise,"['oh', 'good', 'god']",3
+595,"Hey! Continuing the countdown of your favorite meals. Tonight, No. 3, macaroni and cheese with cut up hot dogs.",neutral,"['hey', 'continuing', 'countdown', 'favorite', 'meal', 'tonight', 'macaroni', 'cheese', 'cut', 'hot', 'dog']",11
+596,"Look, you have done enough! Okay? You have to stop this now.",anger,"['look', 'done', 'enough', 'okay', 'stop']",5
+597,"I will! But not tonight. For dinner music, I thought we could listen to that tape you made me.",joy,"['tonight', 'dinner', 'music', 'thought', 'could', 'listen', 'tape', 'made']",8
+598,"Oh, the mixed tape.",neutral,"['oh', 'mixed', 'tape']",3
+599,The Way You Look Tonight,joy,"['way', 'look', 'tonight']",3
+600,You are just the sweetest.,joy,['sweetest'],1
+601,Hey!,joy,['hey'],1
+602,Hey!,joy,['hey'],1
+603,"Hey, guess what I’m doing tonight.",neutral,"['hey', 'guess', 'im', 'tonight']",4
+604,What?,neutral,[],0
+605,I’m checking out the restaurant with Pete.,neutral,"['im', 'checking', 'restaurant', 'pete']",4
+606,"Ohh, Monica, I am so excited for you.",joy,"['ohh', 'monica', 'excited']",3
+607,"So honey this uh, this threesome thing umm, I mean how-how are you gonna start to find",neutral,"['honey', 'uh', 'threesome', 'thing', 'umm', 'mean', 'howhow', 'gon', 'na', 'start', 'find']",11
+608,"Ooh, actually I’ve been making a list of all the women I know who might be into doing this!",joy,"['ooh', 'actually', 'ive', 'making', 'list', 'woman', 'know', 'might']",8
+609,"Oh.  Wow!  Huh.  Boy!  Well, someone’s been doing their homework.",surprise,"['oh', 'wow', 'huh', 'boy', 'well', 'someone', 'homework']",7
+610,"Yeah. Ooh, and I know Gail Rosten is in there twice, but she is so",neutral,"['yeah', 'ooh', 'know', 'gail', 'rosten', 'twice']",6
+611,"Oh, I know.  Y’know, just-just talking about it is getting me kinda",neutral,"['oh', 'know', 'yknow', 'justjust', 'talking', 'getting', 'kinda']",7
+612,"Oh, me too.",neutral,['oh'],1
+613,"and then, we could’ve gone from the ceremony to the reception with you in the sidecar!",joy,"['couldve', 'gone', 'ceremony', 'reception', 'sidecar']",5
+614,"Ross, it just wouldn’t have been feasible.",neutral,"['ross', 'wouldnt', 'feasible']",3
+615,But having a dove place the ring on your finger would’ve been no problem?,anger,"['dove', 'place', 'ring', 'finger', 'wouldve', 'problem']",6
+616,It was really fun being married to you tonight.,joy,"['really', 'fun', 'married', 'tonight']",4
+617,"Yeah! And! And, it was the easiest 400 bucks I’ve ever made.",joy,"['yeah', 'easiest', 'buck', 'ive', 'ever', 'made']",6
+618,"Okay Ross, can I uh, can I ask you something?",sadness,"['okay', 'ross', 'uh', 'ask', 'something']",5
+619,Yeah.,neutral,['yeah'],1
+620,"That proposal, at the planetarium",neutral,"['proposal', 'planetarium']",2
+621,"I know, I know it was stupid.",sadness,"['know', 'know', 'stupid']",3
+622,Are you kidding?!,surprise,['kidding'],1
+623,"With the, with the lilies, and-and the song, and the stars!",joy,"['lily', 'andand', 'song', 'star']",4
+624,It was…really wonderful!,joy,"['wasreally', 'wonderful']",2
+625,Did you just make that up?,surprise,['make'],1
+626,"No, actually I thought about it when, when we were going out.",neutral,"['actually', 'thought', 'going']",3
+627,"It’s how I imagined I uh, I would ask you to marry me.",neutral,"['imagined', 'uh', 'would', 'ask', 'marry']",5
+628,"Well, that would’ve been very hard to say no too.",neutral,"['well', 'wouldve', 'hard', 'say']",4
+629,"It’s a good thing I didn’t do it, because it sounds like it would’ve been a very expensive wedding.  Okay, good night",neutral,"['good', 'thing', 'didnt', 'sound', 'like', 'wouldve', 'expensive', 'wedding', 'okay', 'good', 'night']",11
+630,Goodnight,neutral,['goodnight'],1
+631,Even if the sidecar had a windscreen so your hair wouldn’t get messed up?,neutral,"['even', 'sidecar', 'windscreen', 'hair', 'wouldnt', 'get', 'messed']",7
+632,I will think about it.,neutral,['think'],1
+633,That’s all I’m askin’,neutral,"['thats', 'im', 'askin']",3
+634,"You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn’t feel bad!",surprise,"['guy', 'banana', 'cream', 'beef', 'ii', 'believe', 'ate', 'wouldnt', 'feel', 'bad']",10
+635,"Well actually, I-I didn’t eat mine. It’s still in the bathroom.",joy,"['well', 'actually', 'ii', 'didnt', 'eat', 'mine', 'still', 'bathroom']",8
+636,"No it isn’t, I ate that.",neutral,"['isnt', 'ate']",2
+637,Well we left ours in Monica’s bedroom.,neutral,"['well', 'left', 'monicas', 'bedroom']",4
+638,"Nope, got it and I got yours  too.",neutral,"['nope', 'got', 'got']",3
+639,And that’s I’m so glad… there’s no problem.,joy,"['thats', 'im', 'glad', 'there', 'problem']",5
+640,"That’s fine, actually I’m on the hiring committee, so there’ll be at least one friendly face.",neutral,"['thats', 'fine', 'actually', 'im', 'hiring', 'committee', 'therell', 'least', 'one', 'friendly', 'face']",11
+641,Ohh! That’s great!,joy,"['ohh', 'thats', 'great']",3
+642,"You know, Junior Miss is where I started. Oh, I had to sleep with the",neutral,"['know', 'junior', 'miss', 'started', 'oh', 'sleep']",6
+643,Really?!,surprise,['really'],1
+644,No-ho-ho!,joy,['nohoho'],1
+645,Yeah.,neutral,['yeah'],1
+646,"I mean, no-no-no-no-no, don’t you worry, I’m sure with your qualifications you won’t need to sleep with some guy to get that job.",neutral,"['mean', 'nonononono', 'dont', 'worry', 'im', 'sure', 'qualification', 'wont', 'need', 'sleep', 'guy', 'get', 'job']",13
+647,"Although, I might need some convincing.",neutral,"['although', 'might', 'need', 'convincing']",4
+648,"Well, I, umm",fear,"['well', 'umm']",2
+649,"Kidding! God, I feel wild today!",joy,"['kidding', 'god', 'feel', 'wild', 'today']",5
+650,Oh my God! Chandler just left though!,surprise,"['oh', 'god', 'chandler', 'left', 'though']",5
+651,"Yeah but, maybe it’s not what we think. Maybe it’s tell Monica I’m sorry I…drank the last of the milk.",neutral,"['yeah', 'maybe', 'think', 'maybe', 'tell', 'monica', 'im', 'sorry', 'idrank', 'last', 'milk']",11
+652,"Or maybe he-he was writing to tell her that-that he’s changed his name, y’know? Tell Monica I’m sorry.",neutral,"['maybe', 'hehe', 'writing', 'tell', 'thatthat', 'he', 'changed', 'name', 'yknow', 'tell', 'monica', 'im', 'sorry']",13
+653,I think it means he freaked out and left!,surprise,"['think', 'mean', 'freaked', 'left']",4
+654,Don’t be so negative! Good God! Isn’t it possible that Sorry is sitting in there  right now?!,anger,"['dont', 'negative', 'good', 'god', 'isnt', 'possible', 'sorry', 'sitting', 'right']",9
+655,"Okay. Phoebe, I-I think Ross is right. What are we gonna do?",sadness,"['okay', 'phoebe', 'ii', 'think', 'ross', 'right', 'gon', 'na']",8
+656,"Look—Okay, I’m just gonna—I’m gonna have to go find him and bring him back!",neutral,"['lookokay', 'im', 'gonnaim', 'gon', 'na', 'go', 'find', 'bring', 'back']",9
+657,Okay?,neutral,['okay'],1
+658,"You-you make sure Monica does not find out, okay?",neutral,"['youyou', 'make', 'sure', 'monica', 'find', 'okay']",6
+659,"I will, I will find him.",neutral,['find'],1
+660,Hey!,joy,['hey'],1
+661,Hi! Hey!,joy,"['hi', 'hey']",2
+662,Do you guys know any cute guys?,neutral,"['guy', 'know', 'cute', 'guy']",4
+663,"Well, of course I do! My good friend Joey over here.",joy,"['well', 'course', 'good', 'friend', 'joey']",5
+664,"Oh, I’m sorry. Thank you Chandler.",joy,"['oh', 'im', 'sorry', 'thank', 'chandler']",5
+665,"Anyway, there’s this big charity ball this weekend and Ralph Lauren bought a table, so I kinda have to go",neutral,"['anyway', 'there', 'big', 'charity', 'ball', 'weekend', 'ralph', 'lauren', 'bought', 'table', 'kinda', 'go']",12
+666,What’s the charity?,neutral,"['whats', 'charity']",2
+667,"I don’t know, something either trees or disease—Ralph mumbles a lot.",neutral,"['dont', 'know', 'something', 'either', 'tree', 'diseaseralph', 'mumble', 'lot']",8
+668,Does Ralph mumble when you’re not paying attention?,neutral,"['ralph', 'mumble', 'youre', 'paying', 'attention']",5
+669,Yeah! It’s weird. But the thing is need to find a date.,surprise,"['yeah', 'weird', 'thing', 'need', 'find', 'date']",6
+670,"Well, what kind of guy are you looking for?",neutral,"['well', 'kind', 'guy', 'looking']",4
+671,Hey!,joy,['hey'],1
+672,What are you guys doing later?,neutral,"['guy', 'later']",2
+673,"Oh, Rachel and I have appointments to get our hair cut.",neutral,"['oh', 'rachel', 'appointment', 'get', 'hair', 'cut']",6
+674,We do?,surprise,[],0
+675,I want to see what he wants first.,neutral,"['want', 'see', 'want', 'first']",4
+676,I just found out that Elizabeth’s dad wants to meet me.,sadness,"['found', 'elizabeth', 'dad', 'want', 'meet']",5
+677,"Wait a minute, hold the phone! You’re not Elizabeth’s dad?!",surprise,"['wait', 'minute', 'hold', 'phone', 'youre', 'elizabeth', 'dad']",7
+678,"Come on guys, I-I really want this guy to like me.",fear,"['come', 'guy', 'ii', 'really', 'want', 'guy', 'like']",7
+679,It-it would really help me out if you guys were here to make me look good.,sadness,"['itit', 'would', 'really', 'help', 'guy', 'make', 'look', 'good']",8
+680,Of course we’ll help! Yeah! We’ll be here!,joy,"['course', 'well', 'help', 'yeah', 'well']",5
+681,Thanks!,joy,['thanks'],1
+682,We know how tough those parent/teacher conferences can be.,neutral,"['know', 'tough', 'parentteacher', 'conference']",4
+683,"Oh, hi! How are you doing?",joy,"['oh', 'hi']",2
+684,I'm okay. I gotta go down to the police station and look at mug shots.,sadness,"['im', 'okay', 'got', 'ta', 'go', 'police', 'station', 'look', 'mug', 'shot']",10
+685,"Thanks for having me over, you guys.",neutral,"['thanks', 'guy']",2
+686,Tag?,neutral,['tag'],1
+687,Y-You're going?,joy,"['yyoure', 'going']",2
+688,"Uh we didn't, uh we didn't get the chance to talk.",neutral,"['uh', 'didnt', 'uh', 'didnt', 'get', 'chance', 'talk']",7
+689,"Uh, so, where did you say you're from again?",neutral,"['uh', 'say', 'youre']",3
+690,Colorado.,neutral,['colorado'],1
+691,"Ah, what good are you.",neutral,"['ah', 'good']",2
+692,"Look, um, I think we should talk about what happened on the terrace.",neutral,"['look', 'um', 'think', 'talk', 'happened', 'terrace']",6
+693,Okay.,neutral,['okay'],1
+694,"Ah, I-I never should have said what I said.",sadness,"['ah', 'ii', 'never', 'said', 'said']",5
+695,It—y’know what?,neutral,['ityknow'],1
+696,It just doesn't matter how I feel.,sadness,"['doesnt', 'matter', 'feel']",3
+697,"I mean we work together, so nothing could really ever happen between us, and what I would love is just to go to work on Monday, and-and never talk about this again, okay?",sadness,"['mean', 'work', 'together', 'nothing', 'could', 'really', 'ever', 'happen', 'u', 'would', 'love', 'go', 'work', 'monday', 'andand', 'never', 'talk', 'okay']",18
+698,"Um, I'm not.",neutral,"['um', 'im']",2
+699,"Oh, god, I knew it, that I freaked you out.",sadness,"['oh', 'god', 'knew', 'freaked']",4
+700,"No, you didn't. The only thing that freaked me out was you saying that nothing could ever happen between us.",sadness,"['didnt', 'thing', 'freaked', 'saying', 'nothing', 'could', 'ever', 'happen', 'u']",9
+701,Really?,surprise,['really'],1
+702,"Yeah, so, please don't fire me for doing this.",sadness,"['yeah', 'please', 'dont', 'fire']",4
+703,"Get him! GET HIM! Get him! Get- YESSS! Not laughing now, are ya pal!",anger,"['get', 'get', 'get', 'get', 'yesss', 'laughing', 'ya', 'pal']",8
+704,"See buddy, that's all you need, a bunch of toothless guys hitting each other with sticks.",neutral,"['see', 'buddy', 'thats', 'need', 'bunch', 'toothless', 'guy', 'hitting', 'stick']",9
+705,Pass it! Pass it!,joy,"['pas', 'pas']",2
+706,He's open!,joy,"['he', 'open']",2
+707,Shoot! Shoot! Shoot!,joy,"['shoot', 'shoot', 'shoot']",3
+708,"Hey, look, we're on that TV thing!",surprise,"['hey', 'look', 'tv', 'thing']",4
+709,I am so psyched I kept this chair for myself!,joy,"['psyched', 'kept', 'chair']",3
+710,"Yeah, me too.",neutral,['yeah'],1
+711,"Yeah? Wow! Y’know, that this thing has speakers in the headrest!",surprise,"['yeah', 'wow', 'yknow', 'thing', 'speaker', 'headrest']",6
+712,No. Really?,surprise,['really'],1
+713,Yeah! You can hook it up to your TV,joy,"['yeah', 'hook', 'tv']",3
+714,My chair heals itself.,neutral,"['chair', 'heals']",2
+715,"Tiger!  Dragon! Iceberg!!  Joseph, did you even study at all last night?",anger,"['tiger', 'dragon', 'iceberg', 'joseph', 'even', 'study', 'last', 'night']",8
+716,"Yes! Yes, I did.",sadness,"['yes', 'yes']",2
+717,Then do Iceberg!,anger,['iceberg'],1
+718,G-sharp.,neutral,['gsharp'],1
+719,G,neutral,['g'],1
+720,What?! I didn't touch a guitar!,surprise,"['didnt', 'touch', 'guitar']",3
+721,"No, but you're questioning my method!",anger,"['youre', 'questioning', 'method']",3
+722,"No, I'm not questioning it, I'm saying it's stupid!  What?!",anger,"['im', 'questioning', 'im', 'saying', 'stupid']",5
+723,Thank you.,neutral,['thank'],1
+724,Y'know none of my other student thought I was stupid.,anger,"['yknow', 'none', 'student', 'thought', 'stupid']",5
+725,"Your other student, was you!",anger,['student'],1
+726,"Yeah, well, y'know maybe you just need to try a little harder!",anger,"['yeah', 'well', 'yknow', 'maybe', 'need', 'try', 'little', 'harder']",8
+727,"Look, maybe I need to try a real teacher!",anger,"['look', 'maybe', 'need', 'try', 'real', 'teacher']",6
+728,Right here!,anger,['right'],1
+729,Here!,anger,[],0
+730,"Andy Cooper, he teaches guitar and look ooh, there's a nice picture of him with a little kid and",neutral,"['andy', 'cooper', 'teach', 'guitar', 'look', 'ooh', 'there', 'nice', 'picture', 'little', 'kid']",11
+731,Fine! You go learn from your qualified instructor! But don't come crying to me when everyone's sick and tired of hearing you play,anger,"['fine', 'go', 'learn', 'qualified', 'instructor', 'dont', 'come', 'cry', 'everyones', 'sick', 'tired', 'hearing', 'play']",13
+732,"""Baddest man in the whole damn town.""",neutral,"['baddest', 'man', 'whole', 'damn', 'town']",5
+733,"Oh, fine! Take his side!",anger,"['oh', 'fine', 'take', 'side']",4
+734,"And shame on you! You should know better, Joey needs to work.  Now come on!",anger,"['shame', 'know', 'better', 'joey', 'need', 'work', 'come']",7
+735,Hey!,anger,['hey'],1
+736,No! Ah-ah-ah-ah-ah! You can have this back when the five pages are done!  Ahh!,anger,"['ahahahahah', 'back', 'five', 'page', 'done', 'ahh']",6
+737,Hi!,joy,['hi'],1
+738,Hi.,neutral,['hi'],1
+739,"Hi.  Umm, I think there’s something that we really need to talk about.",joy,"['hi', 'umm', 'think', 'there', 'something', 'really', 'need', 'talk']",8
+740,"I think we do. Why don’t we go inside?  Look uh, I know why you’re here.",sadness,"['think', 'dont', 'go', 'inside', 'look', 'uh', 'know', 'youre']",8
+741,You do?,surprise,[],0
+742,"Yeah, and to save you from any embarrassment umm, I think maybe I should talk first.",neutral,"['yeah', 'save', 'embarrassment', 'umm', 'think', 'maybe', 'talk', 'first']",8
+743,Okay.,neutral,['okay'],1
+744,"Okay.  Uh, Ross and Rachel. Rachel and Ross. That’s been one heck of a see-saw hasn’t it?",neutral,"['okay', 'uh', 'ross', 'rachel', 'rachel', 'ross', 'thats', 'one', 'heck', 'seesaw', 'hasnt']",11
+745,What?,surprise,[],0
+746,"I mean look, that-that one night we had was fun and…and certainly passionate, but don’t you think it’s better if we just stayed friends?",sadness,"['mean', 'look', 'thatthat', 'one', 'night', 'fun', 'andand', 'certainly', 'passionate', 'dont', 'think', 'better', 'stayed', 'friend']",14
+747,Seriously. What?!,surprise,['seriously'],1
+748,Okay.,neutral,['okay'],1
+749,Okay.,neutral,['okay'],1
+750,Y’know what?,neutral,['yknow'],1
+751,"If you want to, we can do it one more time.",neutral,"['want', 'one', 'time']",3
+752,I mean I’d-I’d be okay with that.,neutral,"['mean', 'idid', 'okay']",3
+753,"In fact, I have some time right now.",neutral,"['fact', 'time', 'right']",3
+754,"Okay, y’know what? Can I, can I talk now?",joy,"['okay', 'yknow', 'talk']",3
+755,Oh sure.,neutral,"['oh', 'sure']",2
+756,"I’m pregnant.  Ross?  Ross?  Okay, whenever you’re ready.  And you’re the father by the way—but you got that",anger,"['im', 'pregnant', 'ross', 'ross', 'okay', 'whenever', 'youre', 'ready', 'youre', 'father', 'waybut', 'got']",12
+757,We should defiantly play football more often. Maybe there’s a like league we could join or something.,neutral,"['defiantly', 'play', 'football', 'often', 'maybe', 'there', 'like', 'league', 'could', 'join', 'something']",11
+758,I know!,joy,['know'],1
+759,"Yes! Wow, well, that-that was easy. Okay, you-you go.",surprise,"['yes', 'wow', 'well', 'thatthat', 'easy', 'okay', 'youyou', 'go']",8
+760,Okay.,neutral,['okay'],1
+761,Okay.,neutral,['okay'],1
+762,"Okay, you know, you know when your in bed, with a woman.",joy,"['okay', 'know', 'know', 'bed', 'woman']",5
+763,Hmph.,neutral,['hmph'],1
+764,"And, ah, you know, your fooling around with her.",joy,"['ah', 'know', 'fooling', 'around']",4
+765,"And you get all these like, mental images in your brain, you know, like Elle MacPherson, or that girl at the Xerox place....",joy,"['get', 'like', 'mental', 'image', 'brain', 'know', 'like', 'elle', 'macpherson', 'girl', 'xerox', 'place']",12
+766,"With the belly-button ring? Oh, muhawa!",joy,"['bellybutton', 'ring', 'oh', 'muhawa']",4
+767,"I know, And then all of the sudden your Mom pops into your head.",anger,"['know', 'sudden', 'mom', 'pop', 'head']",5
+768,"And your like 'Mom, get outta here!'",anger,"['like', 'mom', 'get', 'outta']",4
+769,"You know, but of course, like, after that you can't possibly think of anything else, and you can't, you know, stop what your doing.",anger,"['know', 'course', 'like', 'cant', 'possibly', 'think', 'anything', 'else', 'cant', 'know', 'stop']",11
+770,"So it's kinda like, you're, you know.",neutral,"['kinda', 'like', 'youre', 'know']",4
+771,You know.... You don't know!,surprise,"['know', 'dont', 'know']",3
+772,"Your Mom, your telling me, your telling me, about your Mom, what is the matter with you?",disgust,"['mom', 'telling', 'telling', 'mom', 'matter']",5
+773,You said...,neutral,['said'],1
+774,I said ',neutral,['said'],1
+775,Oh!,surprise,['oh'],1
+776,Look at Emma!,surprise,"['look', 'emma']",2
+777,"I just can’t decide who she looks more alike, you or Rachel?",neutral,"['cant', 'decide', 'look', 'alike', 'rachel']",5
+778,"Oh what are you kidding? She’s gorgeous, it’s all Rachel.",joy,"['oh', 'kidding', 'shes', 'gorgeous', 'rachel']",5
+779,"I’m sorry, for the last time, why aren’t you two together again?",neutral,"['im', 'sorry', 'last', 'time', 'arent', 'two', 'together']",7
+780,"No, I know.",neutral,['know'],1
+781,"I know, because you’re not in that place.",neutral,"['know', 'youre', 'place']",3
+782,"Which would be fine, except you totally are.",neutral,"['would', 'fine', 'except', 'totally']",4
+783,It’s…it’s complicated okay?,sadness,"['itsits', 'complicated', 'okay']",3
+784,"Yeah that’s true. Yeah, you love her. You always have. You have a child together. There is no right answer.",neutral,"['yeah', 'thats', 'true', 'yeah', 'love', 'always', 'child', 'together', 'right', 'answer']",10
+785,"Look, we’ve been together.",sadness,"['look', 'weve', 'together']",3
+786,Okay?,neutral,['okay'],1
+787,"And then apart, and then together, and then apart, and now we have a baby.",sadness,"['apart', 'together', 'apart', 'baby']",4
+788,It’s just if-if we got together again and it didn’t work out…I could never do that to Emma.,sadness,"['ifif', 'got', 'together', 'didnt', 'work', 'outi', 'could', 'never', 'emma']",9
+789,I mean she-she thinking everything— Oh that’s…now me.,sadness,"['mean', 'sheshe', 'thinking', 'everything', 'oh', 'thatsnow']",6
+790,What do they put something in the water in this place?,neutral,"['put', 'something', 'water', 'place']",4
+791,"Since Rachel and I we’re doing really, we’re doing really well right now.",sadness,"['since', 'rachel', 'really', 'really', 'well', 'right']",6
+792,"I know. I know. I know. I know, and if you try to make it more you might wreck it.",neutral,"['know', 'know', 'know', 'know', 'try', 'make', 'might', 'wreck']",8
+793,"Yeah, exactly.",neutral,"['yeah', 'exactly']",2
+794,Right.  Or you might get everything you’ve wanted since you were fifteen.,neutral,"['right', 'might', 'get', 'everything', 'youve', 'wanted', 'since', 'fifteen']",8
+795,God. I forgot how much I love driving. I have,joy,"['god', 'forgot', 'much', 'love', 'driving']",5
+796,You don’t have a,neutral,['dont'],1
+797,"Oh Ross you’re so tense! You just gotta relax, okay? Just need to relax all right? Just need to relax",neutral,"['oh', 'ross', 'youre', 'tense', 'got', 'ta', 'relax', 'okay', 'need', 'relax', 'right', 'need', 'relax']",13
+798,What-what are you doing?! Are you—Okay that’s not funny! Just stop horsing around!,anger,"['whatwhat', 'youokay', 'thats', 'funny', 'stop', 'horsing', 'around']",7
+799,"I am not horsing around, okay? I am Porsching around.",joy,"['horsing', 'around', 'okay', 'porsching', 'around']",5
+800,Uh-oh.,fear,['uhoh'],1
+801,"Okay, stay calm. Nothing is going to happen to you, you are not in that much trouble.",neutral,"['okay', 'stay', 'calm', 'nothing', 'going', 'happen', 'much', 'trouble']",8
+802,Really? You think so?,fear,"['really', 'think']",2
+803,I was talking to myself! You’re going down!,anger,"['talking', 'youre', 'going']",3
+804,Hey honey! I missed you today!,joy,"['hey', 'honey', 'missed', 'today']",4
+805,"Oh, yeah?",surprise,"['oh', 'yeah']",2
+806,Yeah.  What d'you wanna do tonight?,neutral,"['yeah', 'dyou', 'wan', 'na', 'tonight']",5
+807,"Oh, well... Maybe we could...",neutral,"['oh', 'well', 'maybe', 'could']",4
+808,"Ok, trying to turn me on by making a mess?",joy,"['ok', 'trying', 'turn', 'making', 'mess']",5
+809,Know your audience!,joy,"['know', 'audience']",2
+810,"Besides, tomorrow we're doing those fertility tests and until then you need    to keep your tadpoles in the tank.",neutral,"['besides', 'tomorrow', 'fertility', 'test', 'need', 'keep', 'tadpole', 'tank']",8
+811,We really need to take those tests?,sadness,"['really', 'need', 'take', 'test']",4
+812,"Honey, we've been trying to have a baby for over a year.",neutral,"['honey', 'weve', 'trying', 'baby', 'year']",5
+813,I think    it's a good idea to find out if everything's ok. Just a few routine tests.,neutral,"['think', 'good', 'idea', 'find', 'everythings', 'ok', 'routine', 'test']",8
+814,But I don't wanna do it in a cup!,sadness,"['dont', 'wan', 'na', 'cup']",4
+815,"Oh, hi Max! Hey, do you know everybody?",neutral,"['oh', 'hi', 'max', 'hey', 'know', 'everybody']",6
+816,No. Have you seen David?,neutral,"['seen', 'david']",2
+817,"No, no, he hasn't been around.",neutral,"['hasnt', 'around']",2
+818,"Well, if you see him, tell him to pack his bags. We are going to Minsk.",neutral,"['well', 'see', 'tell', 'pack', 'bag', 'going', 'minsk']",7
+819,Minsk?,surprise,['minsk'],1
+820,Minsk. It's in Russia.,neutral,"['minsk', 'russia']",2
+821,I know where Minsk is.,neutral,"['know', 'minsk']",2
+822,"We got the grant. Three years, all expenses paid.",joy,"['got', 'grant', 'three', 'year', 'expense', 'paid']",6
+823,"So when, when do you leave?",neutral,['leave'],1
+824,January first,neutral,"['january', 'first']",2
+825,You wanted to see me Professor Geller?,joy,"['wanted', 'see', 'professor', 'geller']",4
+826,"Yes. Yes! Please, come in.",neutral,"['yes', 'yes', 'please', 'come']",4
+827,Oo-oo!,joy,['oooo'],1
+828,Pretty great! Except I did get a little attitude from the robot.,joy,"['pretty', 'great', 'except', 'get', 'little', 'attitude', 'robot']",7
+829,"Damn those robots, they’re supposed to be our",anger,"['damn', 'robot', 'theyre', 'supposed']",4
+830,"Anyway, it wasn’t the robot, it was the guy who controls him.",neutral,"['anyway', 'wasnt', 'robot', 'guy', 'control']",5
+831,"Yeah, he doesn’t like me.",anger,"['yeah', 'doesnt', 'like']",3
+832,He had C.H.E.E.S.E.,neutral,['cheese'],1
+833,knock over the sandwich right when I was reaching for one!,anger,"['knock', 'sandwich', 'right', 'reaching', 'one']",5
+834,Ohh!,surprise,['ohh'],1
+835,"Well, why don’t you just get him fired?",neutral,"['well', 'dont', 'get', 'fired']",4
+836,"I may have to, I hate to do it, but I’m the star!",anger,"['may', 'hate', 'im', 'star']",4
+837,Y’know?,neutral,['yknow'],1
+838,There’s a limit to how many sandwiches I can eat off the floor.,neutral,"['there', 'limit', 'many', 'sandwich', 'eat', 'floor']",6
+839,Excuse me.,neutral,['excuse'],1
+840,Joey Tribbiani.,neutral,"['joey', 'tribbiani']",2
+841,"Joe! I’m glad I found ya, I got an audition for ya!",joy,"['joe', 'im', 'glad', 'found', 'ya', 'got', 'audition', 'ya']",8
+842,Wow!,surprise,['wow'],1
+843,The thing is it’s kinda on the Q.T.,neutral,"['thing', 'kinda', 'qt']",3
+844,The actor who has the part doesn’t know he might be fired.,neutral,"['actor', 'part', 'doesnt', 'know', 'might', 'fired']",6
+845,"It’s the lead in a series, Mac and C.H.E.E.S.E.",neutral,"['lead', 'series', 'mac', 'cheese']",4
+846,I’m the lead in Mac and C.H.E.E.S.E.!!,anger,"['im', 'lead', 'mac', 'cheese']",4
+847,Oh good God! If you want a baby so bad just go steal it!,anger,"['oh', 'good', 'god', 'want', 'baby', 'bad', 'go', 'steal']",8
+848,What is going on with you? Since when are you so crazy about babies?,surprise,"['going', 'since', 'crazy', 'baby']",4
+849,I’m not crazy about babies. I’m crazy about us.,joy,"['im', 'crazy', 'baby', 'im', 'crazy', 'u']",6
+850,What?,surprise,[],0
+851,"Look, we’ve always talked about having babies someday.",neutral,"['look', 'weve', 'always', 'talked', 'baby', 'someday']",6
+852,"I’m not saying it has to be right now, but I’m starting to think that we can handle it.",neutral,"['im', 'saying', 'right', 'im', 'starting', 'think', 'handle']",7
+853,We’re good.,neutral,['good'],1
+854,We’re really good.,joy,"['really', 'good']",2
+855,"Oh, did you catch him?!",surprise,"['oh', 'catch']",2
+856,Wh-what did he say?!,surprise,"['whwhat', 'say']",2
+857,"He said, ""Nice to meet you Glenda.""  Well, obviously I couldn't give him my real name?",neutral,"['said', 'nice', 'meet', 'glenda', 'well', 'obviously', 'couldnt', 'give', 'real', 'name']",10
+858,Why?! Why not?!,surprise,[],0
+859,"Come on, you saw the way he ran out of here!",sadness,"['come', 'saw', 'way', 'ran']",4
+860,He's gonna stick around and talk to the daughter he abandoned!,sadness,"['he', 'gon', 'na', 'stick', 'around', 'talk', 'daughter', 'abandoned']",8
+861,What did you say to him?,neutral,['say'],1
+862,"Well, I said, I told him y'know, that I was the executor person of Francis' will and that I needed to talk to him so I'm gonna meet him at the coffee house later.",neutral,"['well', 'said', 'told', 'yknow', 'executor', 'person', 'francis', 'needed', 'talk', 'im', 'gon', 'na', 'meet', 'coffee', 'house', 'later']",16
+863,"Oh yeah, sure.",neutral,"['oh', 'yeah', 'sure']",3
+864,"Okay, in about ten seconds you’re gonna see him kiss me.",joy,"['okay', 'ten', 'second', 'youre', 'gon', 'na', 'see', 'kiss']",8
+865,And in about five seconds you’re gonna see why.,neutral,"['five', 'second', 'youre', 'gon', 'na', 'see']",6
+866,Ross did I ever tell you about the time that I went backpacking through Western Europe?,neutral,"['ross', 'ever', 'tell', 'time', 'went', 'backpacking', 'western', 'europe']",8
+867,"Okay, get ready to see some beggin’!",joy,"['okay', 'get', 'ready', 'see', 'beggin']",5
+868,"Oh, you came on to Ross!",surprise,"['oh', 'came', 'ross']",3
+869,What?!,surprise,[],0
+870,Now I’m so happy.,joy,"['im', 'happy']",2
+871,What are you talking about?!,surprise,['talking'],1
+872,You used the Europe story!,joy,"['used', 'europe', 'story']",3
+873,That’s the magic story you use when you wanna have sex!,anger,"['thats', 'magic', 'story', 'use', 'wan', 'na', 'sex']",7
+874,How do you know about that story?!,surprise,"['know', 'story']",2
+875,How do,neutral,[],0
+876,I heard it from my friend Irene who heard it from some guy!,neutral,"['heard', 'friend', 'irene', 'heard', 'guy']",5
+877,Some guy!!,surprise,['guy'],1
+878,"No. No, she told me his name was Ken Adams.",neutral,"['told', 'name', 'ken', 'adam']",4
+879,Ken Adams!!,surprise,"['ken', 'adam']",2
+880,"How we doing, you guys ready?",neutral,"['guy', 'ready']",2
+881,Mom already called this morning to remind me not to wear my hair up. Did you know my ears are not my best feature?,neutral,"['mom', 'already', 'called', 'morning', 'remind', 'wear', 'hair', 'know', 'ear', 'best', 'feature']",11
+882,Some days it's all I can think about.,neutral,"['day', 'think']",2
+883,"Hi, sorry I'm late, I couldn't find my bearings.",neutral,"['hi', 'sorry', 'im', 'late', 'couldnt', 'find', 'bearing']",7
+884,"Oh... ok, fine.",neutral,"['oh', 'ok', 'fine']",3
+885,But... ehm...,neutral,['ehm'],1
+886,"I just have one question for you,    ehm...",neutral,"['one', 'question', 'ehm']",3
+887,"When we exit should we walk, or run, or prance,    or stroll...",neutral,"['exit', 'walk', 'run', 'prance', 'stroll']",5
+888,"Stop it, stop it! He talks slow but he might pee fast! Ok,    let's go!!",joy,"['stop', 'stop', 'talk', 'slow', 'might', 'pee', 'fast', 'ok', 'let', 'go']",10
+889,I can’t believe this! How long as this been going on?,surprise,"['cant', 'believe', 'long', 'going']",4
+890,"Well umm, Alexandra has been",neutral,"['well', 'umm', 'alexandra']",3
+891,"Oh, it has a name?",surprise,"['oh', 'name']",2
+892,"Phoebe, don’t get upset!",sadness,"['phoebe', 'dont', 'get', 'upset']",4
+893,Okay—Oop! Too late! I’m leaving! Come on Chandler let’s go!,anger,"['okayoop', 'late', 'im', 'leaving', 'come', 'chandler', 'let', 'go']",8
+894,"Well, Phoebe I thought I’d——Yeah, what the hell.",neutral,"['well', 'phoebe', 'thought', 'idyeah', 'hell']",5
+895,Ben!,fear,['ben'],1
+896,"Oh, that's good. Maybe he'll hear you and pull the cord.",anger,"['oh', 'thats', 'good', 'maybe', 'hell', 'hear', 'pull', 'cord']",8
+897,Stop the bus! Wait! Wait! Wait!,fear,"['stop', 'bus', 'wait', 'wait', 'wait']",5
+898,Are you sure he didn't break it because it really hurts?,neutral,"['sure', 'didnt', 'break', 'really', 'hurt']",5
+899,"No, it's just a good bone bruise. And, right here  is the puncture wound from your ring.",neutral,"['good', 'bone', 'bruise', 'right', 'puncture', 'wound', 'ring']",7
+900,"Oh, I'm sorry, I'm really sorry.",sadness,"['oh', 'im', 'sorry', 'im', 'really', 'sorry']",6
+901,Sorry.,sadness,['sorry'],1
+902,Sorry!,sadness,['sorry'],1
+903,I got my s's back!,joy,"['got', 's', 'back']",3
+904,Which we can celebrate later.,neutral,"['celebrate', 'later']",2
+905,Celebrate.,neutral,['celebrate'],1
+906,"Ok, Paulo, why don't you just go get dressed, and then you be on your way, ok, bye-bye.",joy,"['ok', 'paulo', 'dont', 'go', 'get', 'dressed', 'way', 'ok', 'byebye']",9
+907,"Rachel, how did this happen?",neutral,"['rachel', 'happen']",2
+908,"I don't know, I just kinda ran into him last night.",fear,"['dont', 'know', 'kinda', 'ran', 'last', 'night']",6
+909,Where?,neutral,[],0
+910,At his apartment. Is this juice?,neutral,"['apartment', 'juice']",2
+911,"Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?",anger,"['whoa', 'whoa', 'fact', 'dumped', 'hit', 'phoebe']",6
+912,"Oh God, I know I'm a pathetic loser.",sadness,"['oh', 'god', 'know', 'im', 'pathetic', 'loser']",6
+913,"I licked my arm, what?",surprise,"['licked', 'arm']",2
+914,It's breast milk.,neutral,"['breast', 'milk']",2
+915,So?,neutral,[],0
+916,"Phoebe, that is juice, squeezed from a person.",neutral,"['phoebe', 'juice', 'squeezed', 'person']",4
+917,What is the big deal?,anger,"['big', 'deal']",2
+918,What did you just do?,surprise,[],0
+919,"Ok, would people stop drinking the breast milk?",disgust,"['ok', 'would', 'people', 'stop', 'drinking', 'breast', 'milk']",7
+920,You won't even taste it?,neutral,"['wont', 'even', 'taste']",3
+921,No!,disgust,[],0
+922,Not even if you just pretend that it's milk?,neutral,"['even', 'pretend', 'milk']",3
+923,Not even if Carol's breast had a picture of a missing child on it.,disgust,"['even', 'carol', 'breast', 'picture', 'missing', 'child']",6
+924,Aww!,surprise,['aww'],1
+925,"Hey Pheebs, could you please not put your feet up on my new……old sheet?",disgust,"['hey', 'pheebs', 'could', 'please', 'put', 'foot', 'newold', 'sheet']",8
+926,Oh sure!  Noo!,joy,"['oh', 'sure', 'noo']",3
+927,Ohh!!,surprise,['ohh'],1
+928,My apothecary table!!!,surprise,"['apothecary', 'table']",2
+929,What?!,surprise,[],0
+930,Noooooo!!,fear,['noooooo'],1
+931,"Ross, where did you get this?!",surprise,"['ross', 'get']",2
+932,"Oh my God, Phoebe,",anger,"['oh', 'god', 'phoebe']",3
+933,"Wow! Oh my God, well if they’ve ripped off our table ours must be much more than one and fifty dollars!",anger,"['wow', 'oh', 'god', 'well', 'theyve', 'ripped', 'table', 'must', 'much', 'one', 'fifty', 'dollar']",12
+934,Well this doesn’t even smell like opium.,disgust,"['well', 'doesnt', 'even', 'smell', 'like', 'opium']",6
+935,"Of course not, it smells like wine, which you spilled! And thanks for wrecking my sheet by the way.",anger,"['course', 'smell', 'like', 'wine', 'spilled', 'thanks', 'wrecking', 'sheet', 'way']",9
+936,How is she?,sadness,[],0
+937,"It's too soon to tell. She's resting, which is a good sign.",neutral,"['soon', 'tell', 'shes', 'resting', 'good', 'sign']",6
+938,How's the hair?,neutral,"['hows', 'hair']",2
+939,"I'm not gonna lie to you, Ross, it doesn't look good.",sadness,"['im', 'gon', 'na', 'lie', 'ross', 'doesnt', 'look', 'good']",8
+940,"I put a clip on one side, which seems to have stopped the curling.",neutral,"['put', 'clip', 'one', 'side', 'seems', 'stopped', 'curling']",7
+941,Can we see her?,neutral,['see'],1
+942,"Your hair looks too good, I think it would upset her. Ross, why don't you come on in.",sadness,"['hair', 'look', 'good', 'think', 'would', 'upset', 'ross', 'dont', 'come']",9
+943,How're you doing?,sadness,['howre'],1
+944,Of course the packaging does appeal to grown-ups and kids alike.,neutral,"['course', 'packaging', 'appeal', 'grownup', 'kid', 'alike']",6
+945,"Ross, you're being silly. I've tried it, it's no big deal. Just taste it.",joy,"['ross', 'youre', 'silly', 'ive', 'tried', 'big', 'deal', 'taste']",8
+946,That would be no.,disgust,['would'],1
+947,Come on. It doesn't taste bad.,neutral,"['come', 'doesnt', 'taste', 'bad']",4
+948,"Yeah, it's kinda sweet, sorta like, uh...",neutral,"['yeah', 'kinda', 'sweet', 'sorta', 'like', 'uh']",6
+949,Cantaloupe juice.,joy,"['cantaloupe', 'juice']",2
+950,Exactly.,neutral,['exactly'],1
+951,You've tasted it? You've tasted it.,surprise,"['youve', 'tasted', 'youve', 'tasted']",4
+952,Uh huh.,neutral,"['uh', 'huh']",2
+953,"Oh, you've tasted it.",anger,"['oh', 'youve', 'tasted']",3
+954,"You can keep saying it, but it won't stop being true.",neutral,"['keep', 'saying', 'wont', 'stop', 'true']",5
+955,Gimme the bottle.  Gimme the towel.,anger,"['gim', 'bottle', 'gim', 'towel']",4
+956,I still don't get why Greg and Jenny would give us a fake number.,anger,"['still', 'dont', 'get', 'greg', 'jenny', 'would', 'give', 'u', 'fake', 'number']",10
+957,"Y’know, if they knew what they were doing they probably didn’t give you real names either.",neutral,"['yknow', 'knew', 'probably', 'didnt', 'give', 'real', 'name', 'either']",8
+958,"Okay, maybe people give out fake numbers, but they don’t give out fake names.",anger,"['okay', 'maybe', 'people', 'give', 'fake', 'number', 'dont', 'give', 'fake', 'name']",10
+959,"Oh yeah?  Hi, Ken Adams, nice to meet you.",neutral,"['oh', 'yeah', 'hi', 'ken', 'adam', 'nice', 'meet']",7
+960,Regina Philange.,neutral,"['regina', 'philange']",2
+961,"I still don’t get it, we didn’t do anything wrong.",surprise,"['still', 'dont', 'get', 'didnt', 'anything', 'wrong']",6
+962,"I know! Although, you did tell an awful lot of jokes.",anger,"['know', 'although', 'tell', 'awful', 'lot', 'joke']",6
+963,I thought you said those jokes were funny. Joke! Joke! Joke!,surprise,"['thought', 'said', 'joke', 'funny', 'joke', 'joke', 'joke']",7
+964,Joke. Joke. Blah! Blah!,anger,"['joke', 'joke', 'blah', 'blah']",4
+965,Well maybe it was all of your questions.,neutral,"['well', 'maybe', 'question']",3
+966,What about my questions?,neutral,['question'],1
+967,"No, I’m sorry. It’s just my foot itches like crazy.",neutral,"['im', 'sorry', 'foot', 'itch', 'like', 'crazy']",6
+968,"Oh, I’ll get it.",neutral,"['oh', 'ill', 'get']",3
+969,Wow! I usually get to know a girl a little better before I let her spoon me.,surprise,"['wow', 'usually', 'get', 'know', 'girl', 'little', 'better', 'let', 'spoon']",9
+970,"Relax, it’s not like we’re forking.",joy,"['relax', 'like', 'forking']",3
+971,"Look at it! Ohhh! Wallpaper’s a little faded, that’s okay. Carpet’s a little loose. Hardwood floors!!",joy,"['look', 'ohhh', 'wallpaper', 'little', 'faded', 'thats', 'okay', 'carpet', 'little', 'loose', 'hardwood', 'floor']",12
+972,Hey!,joy,['hey'],1
+973,Hello.,neutral,['hello'],1
+974,Oh! Ooh! Oh Monica! It’s so beautiful.,joy,"['oh', 'ooh', 'oh', 'monica', 'beautiful']",5
+975,I know!!!,joy,['know'],1
+976,"So, I’m here, ready to play.",joy,"['im', 'ready', 'play']",3
+977,Okay.,neutral,['okay'],1
+978,"I brought a bunch of stuff for the house, so check it out. Ha-ha.",joy,"['brought', 'bunch', 'stuff', 'house', 'check', 'haha']",6
+979,What’s this?,surprise,['whats'],1
+980,"That’s a dog, every house should have a dog.",joy,"['thats', 'dog', 'every', 'house', 'dog']",5
+981,Not one that can pee on the roof.,surprise,"['one', 'pee', 'roof']",3
+982,"Well, maybe it’s so big because the house was built on radioactive waste.",joy,"['well', 'maybe', 'big', 'house', 'built', 'radioactive', 'waste']",7
+983,And is this in case the house sneezes?,surprise,"['case', 'house', 'sneeze']",3
+984,"No, no, that’s the ghost for the attic.",neutral,"['thats', 'ghost', 'attic']",3
+985,I don’t want a ghost.,fear,"['dont', 'want', 'ghost']",3
+986,"Well, nobody wants a ghost. But you’ve got one, because the house is sitting on an ancient Indian burial ground.",neutral,"['well', 'nobody', 'want', 'ghost', 'youve', 'got', 'one', 'house', 'sitting', 'ancient', 'indian', 'burial', 'ground']",13
+987,"Wait a minute, the house was built on radioactive waste, and an ancient Indian burial ground? That would never happen.",surprise,"['wait', 'minute', 'house', 'built', 'radioactive', 'waste', 'ancient', 'indian', 'burial', 'ground', 'would', 'never', 'happen']",13
+988,"Okay, obviously you don’t know much about the U.S. government.",neutral,"['okay', 'obviously', 'dont', 'know', 'much', 'u', 'government']",7
+989,Hey!,surprise,['hey'],1
+990,Hello.,neutral,['hello'],1
+991,I need to talk to you!,joy,"['need', 'talk']",2
+992,"Sure, what’s up?",neutral,"['sure', 'whats']",2
+993,"All right, I just got changed in thirty seconds so you can be alone with him. You'd better go for it.",anger,"['right', 'got', 'changed', 'thirty', 'second', 'alone', 'youd', 'better', 'go']",9
+994,"Please, I'm not going for anything.",disgust,"['please', 'im', 'going', 'anything']",4
+995,"Well, if you don't, I will.",anger,"['well', 'dont']",2
+996,Would you please go?,joy,"['would', 'please', 'go']",3
+997,I would!,anger,['would'],1
+998,"Hey, guys, guys, did you see my new, china cabinet?!",joy,"['hey', 'guy', 'guy', 'see', 'new', 'china', 'cabinet']",7
+999,Uh-huh.,neutral,['uhhuh'],1
+1000,"Watch, watch.",joy,"['watch', 'watch']",2
+1001,Ooohhhh!!,surprise,['ooohhhh'],1
+1002,"And, and!",joy,[],0
+1003,Ahhhh!!,surprise,['ahhhh'],1
+1004,"Hey, my Father’s house does that!",surprise,"['hey', 'father', 'house']",3
+1005,"O-o-o-okay, how did it go? Tell me everything.",neutral,"['ooookay', 'go', 'tell', 'everything']",4
+1006,"Well, the movie was great, dinner was great, and there’s nothing like a cool, crisp New York evening.",neutral,"['well', 'movie', 'great', 'dinner', 'great', 'there', 'nothing', 'like', 'cool', 'crisp', 'new', 'york', 'evening']",13
+1007,Okay. It’s Emma.,neutral,"['okay', 'emma']",2
+1008,Emma!  See? I don’t want it.,sadness,"['emma', 'see', 'dont', 'want']",4
+1009,Take it.,neutral,['take'],1
+1010,What?,neutral,[],0
+1011,It’s clearly an Emma.,neutral,"['clearly', 'emma']",2
+1012,"Oh honey, but you love that name.",sadness,"['oh', 'honey', 'love', 'name']",4
+1013,"Yeah, but I love you more.",joy,"['yeah', 'love']",2
+1014,"Besides y’know, nothing goes with Bing.",neutral,"['besides', 'yknow', 'nothing', 'go', 'bing']",5
+1015,So I’m screwed.,joy,"['im', 'screwed']",2
+1016,"Oh-oh, I'm a duck! I go, ""Quack, quack!"" I’m happy all the time!",joy,"['ohoh', 'im', 'duck', 'go', 'quack', 'quack', 'im', 'happy', 'time']",9
+1017,Nice try.,sadness,"['nice', 'try']",2
+1018,"Wait, wait, wait!",joy,"['wait', 'wait', 'wait']",3
+1019,"Look, Monica",neutral,"['look', 'monica']",2
+1020,Look!,surprise,['look'],1
+1021,This is not going to work.,anger,"['going', 'work']",2
+1022,I bet this will work!,joy,"['bet', 'work']",2
+1023,You are so great! I love you!,joy,"['great', 'love']",2
+1024,What?,surprise,[],0
+1025,"Nothing! I said, I said ""You're so great"" and then I just, I just stopped talking!",fear,"['nothing', 'said', 'said', 'youre', 'great', 'stopped', 'talking']",7
+1026,You said you loved me! I can't believe this!,surprise,"['said', 'loved', 'cant', 'believe']",4
+1027,No I didn't!,fear,['didnt'],1
+1028,"Yes, you did!",surprise,['yes'],1
+1029,No I didn't!,fear,['didnt'],1
+1030,You love me!,joy,['love'],1
+1031,No I don't! Stop it! Stop it! Stop it! Stop it!,anger,"['dont', 'stop', 'stop', 'stop', 'stop']",5
+1032,Hello Greg?,neutral,"['hello', 'greg']",2
+1033,"Hi, this is Monica from the plane?",neutral,"['hi', 'monica', 'plane']",3
+1034,"Listen, the number that you gave me 853-5…   That is their old number!",anger,"['listen', 'number', 'gave', 'old', 'number']",5
+1035,Jenny’s been giving it out since they moved!,anger,"['jenny', 'giving', 'since', 'moved']",4
+1036,Jenny! That is so Jenny!,joy,"['jenny', 'jenny']",2
+1037,"Hey listen umm, how would you like to get together?",neutral,"['hey', 'listen', 'umm', 'would', 'like', 'get', 'together']",7
+1038,Say next Saturday?,neutral,"['say', 'next', 'saturday']",3
+1039,"Okay, how about Sunday?",neutral,"['okay', 'sunday']",2
+1040,"Okay umm, the week after that?",joy,"['okay', 'umm', 'week']",3
+1041,The week after that?,joy,['week'],1
+1042,Y’know what Greg?,anger,"['yknow', 'greg']",2
+1043,"We are good, interesting, funny people with",anger,"['good', 'interesting', 'funny', 'people']",4
+1044,Hey Chandler! Y’know that girl you went to college with who-who became a movie director?,neutral,"['hey', 'chandler', 'yknow', 'girl', 'went', 'college', 'whowho', 'became', 'movie', 'director']",10
+1045,"Oh yeah, Dana Keystone. She was in my Movement class.",neutral,"['oh', 'yeah', 'dana', 'keystone', 'movement', 'class']",6
+1046,What’s a Movement class?,neutral,"['whats', 'movement', 'class']",3
+1047,It’s Chandler’s way of pretending he didn’t take mime.,neutral,"['chandler', 'way', 'pretending', 'didnt', 'take', 'mime']",6
+1048,"Oh well listen, anyway she’s directing the new Al Pacino movie. You gotta get me an audition!",joy,"['oh', 'well', 'listen', 'anyway', 'shes', 'directing', 'new', 'al', 'pacino', 'movie', 'got', 'ta', 'get', 'audition']",14
+1049,"Oh, I don’t know man. I haven’t talked to her in like ten years.",neutral,"['oh', 'dont', 'know', 'man', 'havent', 'talked', 'like', 'ten', 'year']",9
+1050,I am.,neutral,[],0
+1051,"Joey, what are you talking about? You’re a terrific actor.",neutral,"['joey', 'talking', 'youre', 'terrific', 'actor']",5
+1052,You really think so?,surprise,"['really', 'think']",2
+1053,"Ugh, how can you even ask that question?!",surprise,"['ugh', 'even', 'ask', 'question']",4
+1054,Ross! Get a shot of this. (He's carrying an issue of the,surprise,"['ross', 'get', 'shot', 'he', 'carrying', 'issue']",6
+1055,"Oh, okay, I'm having another one!",fear,"['oh', 'okay', 'im', 'another', 'one']",5
+1056,"This one doesn't hurt either—Ooh, yes it does!",surprise,"['one', 'doesnt', 'hurt', 'eitherooh', 'yes']",5
+1057,Ow!,anger,['ow'],1
+1058,Ow!,anger,['ow'],1
+1059,Ow!,anger,['ow'],1
+1060,Ow!,anger,['ow'],1
+1061,Ooh!,surprise,['ooh'],1
+1062,"Oh, I was kinda hoping that was it.",sadness,"['oh', 'kinda', 'hoping']",3
+1063,"Hey, where are Monica and Rachel anyway?",neutral,"['hey', 'monica', 'rachel', 'anyway']",4
+1064,"Yeah, I love you. Okay, bye!  Hi!",joy,"['yeah', 'love', 'okay', 'bye', 'hi']",5
+1065,Hi!,joy,['hi'],1
+1066,"That was Alice's mom, she said she left five hours ago. She should be here by now!",fear,"['alices', 'mom', 'said', 'left', 'five', 'hour', 'ago']",7
+1067,"Oh, honey, don’t worry. She's gonna make it on time.",neutral,"['oh', 'honey', 'dont', 'worry', 'shes', 'gon', 'na', 'make', 'time']",9
+1068,Yeah.,neutral,['yeah'],1
+1069,I guess I set up the video camera to try and entice Joey.,neutral,"['guess', 'set', 'video', 'camera', 'try', 'entice', 'joey']",7
+1070,But sadly I could not be enticed.,joy,"['sadly', 'could', 'enticed']",3
+1071,Unbelievable! I mean you really kept Joey's underwear?! Why? Why would you do that?!,disgust,"['unbelievable', 'mean', 'really', 'kept', 'joeys', 'underwear', 'would']",7
+1072,I'm Monica. I'm disgusting. I stalk guys and keep their underpants.,sadness,"['im', 'monica', 'im', 'disgusting', 'stalk', 'guy', 'keep', 'underpants']",8
+1073,"Well, I think we've all learned something about who's disgusting and who's not.",anger,"['well', 'think', 'weve', 'learned', 'something', 'who', 'disgusting', 'who']",8
+1074,Eh?,neutral,['eh'],1
+1075,"All right, now, I'm going to get back to my bucket.",neutral,"['right', 'im', 'going', 'get', 'back', 'bucket']",6
+1076,"I'm only eating the skin, so the chicken's up for grabs.",neutral,"['im', 'eating', 'skin', 'chicken', 'grab']",5
+1077,"Ohh, okay, they gave you the old time pricing.",neutral,"['ohh', 'okay', 'gave', 'old', 'time', 'pricing']",6
+1078,Yeah.,neutral,['yeah'],1
+1079,"Well, what period is it from?",neutral,"['well', 'period']",2
+1080,"Uh, it’s from yore. Like the days of yore. Y’know?",neutral,"['uh', 'yore', 'like', 'day', 'yore', 'yknow']",6
+1081,"Yes, yes I do.",neutral,"['yes', 'yes']",2
+1082,"God, oh it’s just perfect!",joy,"['god', 'oh', 'perfect']",3
+1083,I bet it has a great story behind it too.,joy,"['bet', 'great', 'story', 'behind']",4
+1084,"Yes! That I know, this is from White Plains.",joy,"['yes', 'know', 'white', 'plain']",4
+1085,"White Plains. Oh, it sounds like such a magical place.",joy,"['white', 'plain', 'oh', 'sound', 'like', 'magical', 'place']",7
+1086,"So, you still don’t think I’m boyfriend material?",anger,"['still', 'dont', 'think', 'im', 'boyfriend', 'material']",6
+1087,Huh?,neutral,['huh'],1
+1088,I saw you checking me out during the game last night.,neutral,"['saw', 'checking', 'game', 'last', 'night']",5
+1089,"I, umm, shut up!",anger,"['umm', 'shut']",2
+1090,“Good-bye Phoebe and Ursula. I’ll miss you. P.S. Your Mom lives in Montauk.” You just wrote this!,sadness,"['goodbye', 'phoebe', 'ursula', 'ill', 'miss', 'p', 'mom', 'life', 'montauk', 'wrote']",10
+1091,"Well, it’s pretty much the gist. Well, except for the poem. You read the poem, right?",neutral,"['well', 'pretty', 'much', 'gist', 'well', 'except', 'poem', 'read', 'poem', 'right']",10
+1092,Noooo!!,sadness,['noooo'],1
+1093,"All right, hang on!",neutral,"['right', 'hang']",2
+1094,"Rachel, it’s going to happen. Chandler is gonna move in here.",neutral,"['rachel', 'going', 'happen', 'chandler', 'gon', 'na', 'move']",7
+1095,But I,sadness,[],0
+1096,"No-no, wait!",neutral,"['nono', 'wait']",2
+1097,"Just let me finish, okay?",sadness,"['let', 'finish', 'okay']",3
+1098,"This isn’t something that we just, we just impulsively decided in-in Vegas, this is something we both really want.",neutral,"['isnt', 'something', 'impulsively', 'decided', 'inin', 'vega', 'something', 'really', 'want']",9
+1099,And it,neutral,[],0
+1100,It is? Really?,surprise,['really'],1
+1101,"Yeah, sweetie.",neutral,"['yeah', 'sweetie']",2
+1102,"I mean we’re not, we’re not gonna live together anymore?",sadness,"['mean', 'gon', 'na', 'live', 'together', 'anymore']",6
+1103,No.,sadness,[],0
+1104,What? Oh my God! I’m gonna miss you so much!,sadness,"['oh', 'god', 'im', 'gon', 'na', 'miss', 'much']",7
+1105,I’m gonna miss you!,sadness,"['im', 'gon', 'na', 'miss']",4
+1106,I mean it’s the end of an era!,sadness,"['mean', 'end', 'era']",3
+1107,I know!,sadness,['know'],1
